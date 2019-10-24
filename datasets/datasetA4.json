@@ -1,0 +1,481 @@
+[{
+    "text": "No tengo sueño",
+    "score": 0,
+    "magnitude": 0,
+    "tag": "insomnio"
+}, {
+    "text": "No puedo dormir",
+    "score": -0.5,
+    "magnitude": 0.5,
+    "tag": "insomnio"
+}, {
+    "text": "No duermo",
+    "score": 0.800000011920929,
+    "magnitude": 0.800000011920929,
+    "tag": "insomnio"
+}, {
+    "text": "No he podido dormir",
+    "score": -0.5,
+    "magnitude": 0.5,
+    "tag": "insomnio"
+}, {
+    "text": "No puedo dormir por estar pensando en cosas malas",
+    "score": -0.6000000238418579,
+    "magnitude": 0.6000000238418579,
+    "tag": "insomnio"
+}, {
+    "text": "Estoy desvelado",
+    "score": 0.10000000149011612,
+    "magnitude": 0.10000000149011612,
+    "tag": "insomnio"
+}, {
+    "text": "Estoy muy desvelado",
+    "score": 0.20000000298023224,
+    "magnitude": 0.20000000298023224,
+    "tag": "insomnio"
+}, {
+    "text": "Estoy bastante desvelado",
+    "score": 0.30000001192092896,
+    "magnitude": 0.30000001192092896,
+    "tag": "insomnio"
+}, {
+    "text": "Tengo trastornos de sueño",
+    "score": 0.20000000298023224,
+    "magnitude": 0.20000000298023224,
+    "tag": "insomnio"
+}, {
+    "text": "Quiero tomar una siesta pero no puedo",
+    "score": -0.4000000059604645,
+    "magnitude": 0.4000000059604645,
+    "tag": "insomnio"
+}, {
+    "text": "Necesito dormir y no puedo",
+    "score": -0.6000000238418579,
+    "magnitude": 0.6000000238418579,
+    "tag": "insomnio"
+}, {
+    "text": "Estuve despierto toda la noche",
+    "score": 0.699999988079071,
+    "magnitude": 0.699999988079071,
+    "tag": "insomnio"
+}, {
+    "text": "He estado despierto toda la noche",
+    "score": 0.699999988079071,
+    "magnitude": 0.699999988079071,
+    "tag": "insomnio"
+}, {
+    "text": "Ultimamente dormir ha sido un problema",
+    "score": 0,
+    "magnitude": 0,
+    "tag": "insomnio"
+}, {
+    "text": "Dormir ha sido un problema",
+    "score": 0.10000000149011612,
+    "magnitude": 0.10000000149011612,
+    "tag": "insomnio"
+}, {
+    "text": "Dormir es un problema",
+    "score": 0.4000000059604645,
+    "magnitude": 0.4000000059604645,
+    "tag": "insomnio"
+}, {
+    "text": "Ya quiero descansa",
+    "score": 0.5,
+    "magnitude": 0.5,
+    "tag": "yuda"
+}, {
+    "text": "Estoy bastante cansado pero no puedo dormir",
+    "score": -0.5,
+    "magnitude": 0.5,
+    "tag": "insomnio"
+}, {
+    "text": "Dormí menos de dos horas",
+    "score": 0.10000000149011612,
+    "magnitude": 0.10000000149011612,
+    "tag": "insomnio"
+}, {
+    "text": "No dormí nada",
+    "score": -0.4000000059604645,
+    "magnitude": 0.4000000059604645,
+    "tag": "insomnio"
+}, {
+    "text": "Llevo despierto desde hace 3 días",
+    "score": 0.4000000059604645,
+    "magnitude": 0.4000000059604645,
+    "tag": "insomnio"
+}, {
+    "text": "Tengo insomnio",
+    "score": 0.6000000238418579,
+    "magnitude": 0.6000000238418579,
+    "tag": "insomnio"
+}, {
+    "text": "Me causa insomnio",
+    "score": 0.6000000238418579,
+    "magnitude": 0.6000000238418579,
+    "tag": "insomnio"
+}, {
+    "text": "El insomnio no me deja",
+    "score": -0.10000000149011612,
+    "magnitude": 0.10000000149011612,
+    "tag": "insomnio"
+}, {
+    "text": "Mi insomnio no me deja dormir",
+    "score": 0.10000000149011612,
+    "magnitude": 0.10000000149011612,
+    "tag": "insomnio"
+}, {
+    "text": "Porque tengo insomnio",
+    "score": 0.6000000238418579,
+    "magnitude": 0.6000000238418579,
+    "tag": "insomnio"
+}, {
+    "text": "He tenido insomnio",
+    "score": 0.699999988079071,
+    "magnitude": 0.699999988079071,
+    "tag": "insomnio"
+}, {
+    "text": "insomnio",
+    "score": 0.5,
+    "magnitude": 0.5,
+    "tag": "insomnio"
+}, {
+    "text": "Dormí muy poco",
+    "score": -0.4000000059604645,
+    "magnitude": 0.4000000059604645,
+    "tag": "insomnio"
+}, {
+    "text": "Dormí poco",
+    "score": 0,
+    "magnitude": 0,
+    "tag": "insomnio"
+}, {
+    "text": "Dormí mal",
+    "score": -0.10000000149011612,
+    "magnitude": 0.10000000149011612,
+    "tag": "insomnio"
+}, {
+    "text": "Dormí bastante mal",
+    "score": -0.5,
+    "magnitude": 0.5,
+    "tag": "insomnio"
+}, {
+    "text": "Dormí muy mal",
+    "score": -0.6000000238418579,
+    "magnitude": 0.6000000238418579,
+    "tag": "insomnio"
+}, {
+    "text": "Qué triste que cualquier tontería me cause insomnio",
+    "score": -0.699999988079071,
+    "magnitude": 0.699999988079071,
+    "tag": "insomnio"
+}, {
+    "text": "Ansío poder dormir",
+    "score": 0.10000000149011612,
+    "magnitude": 0.10000000149011612,
+    "tag": "insomnio"
+}, {
+    "text": "Ansío poder dormir un poco",
+    "score": 0.30000001192092896,
+    "magnitude": 0.30000001192092896,
+    "tag": "insomnio"
+}, {
+    "text": "Ansío poder dormir aunque sea una hora",
+    "score": 0.10000000149011612,
+    "magnitude": 0.10000000149011612,
+    "tag": "insomnio"
+}, {
+    "text": "Ansío poder descansar",
+    "score": 0.30000001192092896,
+    "magnitude": 0.30000001192092896,
+    "tag": "insomnio"
+}, {
+    "text": "Espero poder dormir",
+    "score": 0.5,
+    "magnitude": 0.5,
+    "tag": "insomnio"
+}, {
+    "text": "Espero poder dormir un rato",
+    "score": 0.6000000238418579,
+    "magnitude": 0.6000000238418579,
+    "tag": "insomnio"
+}, {
+    "text": "Espero poder dormir aunque sea un poco",
+    "score": 0.6000000238418579,
+    "magnitude": 0.6000000238418579,
+    "tag": "insomnio"
+}, {
+    "text": "Espero poder descansar",
+    "score": 0.699999988079071,
+    "magnitude": 0.699999988079071,
+    "tag": "insomnio"
+}, {
+    "text": "Nada me ayuda a dormir",
+    "score": -0.4000000059604645,
+    "magnitude": 0.4000000059604645,
+    "tag": "insomnio"
+}, {
+    "text": "Ojalá pueda dormir",
+    "score": 0.6000000238418579,
+    "magnitude": 0.6000000238418579,
+    "tag": "insomnio"
+}, {
+    "text": "Ojalá pueda descansar",
+    "score": 0.699999988079071,
+    "magnitude": 0.699999988079071,
+    "tag": "insomnio"
+}, {
+    "text": "Ojalá pueda dormir algo",
+    "score": 0.6000000238418579,
+    "magnitude": 0.6000000238418579,
+    "tag": "insomnio"
+}, {
+    "text": "Ojalá pueda descansar algo",
+    "score": 0.699999988079071,
+    "magnitude": 0.699999988079071,
+    "tag": "insomnio"
+}, {
+    "text": "Ojalá pueda dormir un poco",
+    "score": 0.6000000238418579,
+    "magnitude": 0.6000000238418579,
+    "tag": "insomnio"
+}, {
+    "text": "Ojalá pueda descansar un poco",
+    "score": 0.699999988079071,
+    "magnitude": 0.699999988079071,
+    "tag": "insomnio"
+}, {
+    "text": "Tuve una mala noche",
+    "score": -0.5,
+    "magnitude": 0.5,
+    "tag": "insomnio"
+}, {
+    "text": "Tengo muy malas noches",
+    "score": -0.4000000059604645,
+    "magnitude": 0.4000000059604645,
+    "tag": "insomnio"
+}, {
+    "text": "He tenido muchas malas noches",
+    "score": 0,
+    "magnitude": 0,
+    "tag": "insomnio"
+}, {
+    "text": "Ultimamaente he tenido muchas malas noches",
+    "score": 0,
+    "magnitude": 0,
+    "tag": "insomnio"
+}, {
+    "text": "He tenido muy malas noches",
+    "score": 0,
+    "magnitude": 0,
+    "tag": "insomnio"
+}, {
+    "text": "He tenido muy malas noches ultimamente",
+    "score": 0,
+    "magnitude": 0,
+    "tag": "insomnio"
+}, {
+    "text": "Dormí mucho ayer",
+    "score": 0.20000000298023224,
+    "magnitude": 0.20000000298023224,
+    "tag": "no_insomnio"
+}, {
+    "text": "Dormir no es problema para mí",
+    "score": 0.30000001192092896,
+    "magnitude": 0.30000001192092896,
+    "tag": "no_insomnio"
+}, {
+    "text": "Tengo mucho sueño",
+    "score": 0.10000000149011612,
+    "magnitude": 0.10000000149011612,
+    "tag": "no_insomnio"
+}, {
+    "text": "Tengo bastantes cosas que hacer",
+    "score": 0.20000000298023224,
+    "magnitude": 0.20000000298023224,
+    "tag": "no_insomnio"
+}, {
+    "text": "No tengo ganas de ir a la escuela",
+    "score": -0.4000000059604645,
+    "magnitude": 0.4000000059604645,
+    "tag": "no_insomnio"
+}, {
+    "text": "Adio",
+    "score": 0,
+    "magnitude": 0,
+    "tag": "a me voy a dormir"
+}, {
+    "text": "No entiendo a la mayoría de la gente",
+    "score": -0.6000000238418579,
+    "magnitude": 0.6000000238418579,
+    "tag": "no_insomnio"
+}, {
+    "text": "Dormí como 10 horas ayer",
+    "score": 0.30000001192092896,
+    "magnitude": 0.30000001192092896,
+    "tag": "no_insomnio"
+}, {
+    "text": "Estoy feliz",
+    "score": 0.5,
+    "magnitude": 0.5,
+    "tag": "no_insomnio"
+}, {
+    "text": "Las siestas son lo mejor del mundo",
+    "score": 0.699999988079071,
+    "magnitude": 0.699999988079071,
+    "tag": "no_insomnio"
+}, {
+    "text": "Mi hermano y yo dormimos como bebés",
+    "score": 0.6000000238418579,
+    "magnitude": 0.6000000238418579,
+    "tag": "no_insomnio"
+}, {
+    "text": "pero no hay día en el cual no piense matarme",
+    "score": 0,
+    "magnitude": 0,
+    "tag": "no_insomnio"
+}, {
+    "text": "ahora tengo un gran bajón emocional",
+    "score": -0.5,
+    "magnitude": 0.5,
+    "tag": "no_insomnio"
+}, {
+    "text": "no puedo hacer nada sin pesar en lo q pasara si lo hago",
+    "score": -0.699999988079071,
+    "magnitude": 0.699999988079071,
+    "tag": "no_insomnio"
+}, {
+    "text": "en lo q no pasara",
+    "score": 0,
+    "magnitude": 0,
+    "tag": "no_insomnio"
+}, {
+    "text": "está depresión lleva consumiendome desde secundaria por lo mismo",
+    "score": -0.800000011920929,
+    "magnitude": 0.800000011920929,
+    "tag": "no_insomnio"
+}, {
+    "text": "todos sean negativos",
+    "score": -0.10000000149011612,
+    "magnitude": 0.10000000149011612,
+    "tag": "no_insomnio"
+}, {
+    "text": "pensar en no querer vivir",
+    "score": 0.8999999761581421,
+    "magnitude": 0.8999999761581421,
+    "tag": "no_insomnio"
+}, {
+    "text": "Tengo muchos problemas",
+    "score": -0.5,
+    "magnitude": 0.5,
+    "tag": "no_insomnio"
+}, {
+    "text": "No tengo nada de hambre",
+    "score": -0.4000000059604645,
+    "magnitude": 0.4000000059604645,
+    "tag": "no_insomnio"
+}, {
+    "text": "No tengo nada de dinero",
+    "score": -0.5,
+    "magnitude": 0.5,
+    "tag": "no_insomnio"
+}, {
+    "text": "Me siento incapaz de sobresalir",
+    "score": -0.800000011920929,
+    "magnitude": 0.800000011920929,
+    "tag": "no_insomnio"
+}, {
+    "text": "Siempre busco sentirme mal",
+    "score": 0.699999988079071,
+    "magnitude": 0.699999988079071,
+    "tag": "no_insomnio"
+}, {
+    "text": "No tengo permitido parecer débil",
+    "score": -0.5,
+    "magnitude": 0.5,
+    "tag": "no_insomnio"
+}, {
+    "text": "talvez se la ultima ya que no puedo más con esta agonía",
+    "score": -0.4000000059604645,
+    "magnitude": 0.4000000059604645,
+    "tag": "no_insomnio"
+}, {
+    "text": "al fin sentí una pequeña esperanza pero no fue así",
+    "score": -0.699999988079071,
+    "magnitude": 0.699999988079071,
+    "tag": "no_insomnio"
+}, {
+    "text": "pero no puedo",
+    "score": -0.20000000298023224,
+    "magnitude": 0.20000000298023224,
+    "tag": "no_insomnio"
+}, {
+    "text": "yo soy una persona demasiado antisocial",
+    "score": -0.10000000149011612,
+    "magnitude": 0.10000000149011612,
+    "tag": "no_insomnio"
+}, {
+    "text": "No importa cuando se lea esto",
+    "score": 0.20000000298023224,
+    "magnitude": 0.20000000298023224,
+    "tag": "no_insomnio"
+}, {
+    "text": "no sentirme tan mal ya que no quiero estarme sintiendo así",
+    "score": -0.4000000059604645,
+    "magnitude": 0.4000000059604645,
+    "tag": "no_insomnio"
+}, {
+    "text": "igual he perdido el gusto por mis hobbies",
+    "score": -0.30000001192092896,
+    "magnitude": 0.30000001192092896,
+    "tag": "no_insomnio"
+}, {
+    "text": "poco demostrativa era un gran defecto",
+    "score": -0.20000000298023224,
+    "magnitude": 0.20000000298023224,
+    "tag": "no_insomnio"
+}, {
+    "text": "Quiero cambiar",
+    "score": 0,
+    "magnitude": 0,
+    "tag": "no_insomnio"
+}, {
+    "text": "Gracias X tomar la molestia",
+    "score": 0,
+    "magnitude": 0,
+    "tag": "no_insomnio"
+}, {
+    "text": "estoy bastante fastidiada",
+    "score": 0.20000000298023224,
+    "magnitude": 0.20000000298023224,
+    "tag": "no_insomnio"
+}, {
+    "text": "Desde hace 6 años no tengo una estabilidad laboral",
+    "score": 0.30000001192092896,
+    "magnitude": 0.30000001192092896,
+    "tag": "no_insomnio"
+}, {
+    "text": "Desde entonces no levanto cabeza",
+    "score": -0.20000000298023224,
+    "magnitude": 0.20000000298023224,
+    "tag": "no_insomnio"
+}, {
+    "text": "Llevaba 6 meses muy bien",
+    "score": 0.699999988079071,
+    "magnitude": 0.699999988079071,
+    "tag": "no_insomnio"
+}, {
+    "text": "necesito ayuda",
+    "score": 0.5,
+    "magnitude": 0.5,
+    "tag": "no_insomnio"
+}, {
+    "text": "no quiero tomar mala decisión",
+    "score": -0.8999999761581421,
+    "magnitude": 0.8999999761581421,
+    "tag": "no_insomnio"
+}, {
+    "text": "Soy un gord",
+    "score": 0.4000000059604645,
+    "magnitude": 0.4000000059604645,
+    "tag": "e comí un helado grande y una pizza"
+}]

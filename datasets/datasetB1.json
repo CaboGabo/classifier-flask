@@ -1,0 +1,471 @@
+[{
+    "text": "Deterioro social",
+    "score": 0.10000000149011612,
+    "magnitude": 0.10000000149011612,
+    "tag": "malestar"
+}, {
+    "text": "Deterioro laboral",
+    "score": 0.20000000298023224,
+    "magnitude": 0.20000000298023224,
+    "tag": "malestar"
+}, {
+    "text": "Deterioro en mis actividades diarias",
+    "score": 0.5,
+    "magnitude": 0.5,
+    "tag": "malestar"
+}, {
+    "text": "Me afecta socialmente",
+    "score": -0.5,
+    "magnitude": 0.5,
+    "tag": "malestar"
+}, {
+    "text": "Me afecta en el ambito social",
+    "score": -0.20000000298023224,
+    "magnitude": 0.20000000298023224,
+    "tag": "malestar"
+}, {
+    "text": "Me afecta con mi familia",
+    "score": 0,
+    "magnitude": 0,
+    "tag": "malestar"
+}, {
+    "text": "Me afecta con mis padres",
+    "score": -0.30000001192092896,
+    "magnitude": 0.30000001192092896,
+    "tag": "malestar"
+}, {
+    "text": "Me afecta con mi padre",
+    "score": 0,
+    "magnitude": 0,
+    "tag": "malestar"
+}, {
+    "text": "Me afecta con mi madre",
+    "score": -0.5,
+    "magnitude": 0.5,
+    "tag": "malestar"
+}, {
+    "text": "Me afecta con mis amigos",
+    "score": -0.20000000298023224,
+    "magnitude": 0.20000000298023224,
+    "tag": "malestar"
+}, {
+    "text": "Me afecta con mis amigas",
+    "score": 0.20000000298023224,
+    "magnitude": 0.20000000298023224,
+    "tag": "malestar"
+}, {
+    "text": "Me afecta con mis compañeros",
+    "score": -0.20000000298023224,
+    "magnitude": 0.20000000298023224,
+    "tag": "malestar"
+}, {
+    "text": "Me afecta con mi compañero",
+    "score": 0,
+    "magnitude": 0,
+    "tag": "malestar"
+}, {
+    "text": "Me afecta con mi compañera",
+    "score": -0.30000001192092896,
+    "magnitude": 0.30000001192092896,
+    "tag": "malestar"
+}, {
+    "text": "Me está afectando socialmente",
+    "score": -0.699999988079071,
+    "magnitude": 0.699999988079071,
+    "tag": "malestar"
+}, {
+    "text": "Me está afectando en el ambito social",
+    "score": -0.6000000238418579,
+    "magnitude": 0.6000000238418579,
+    "tag": "malestar"
+}, {
+    "text": "Me está afectando con mi familia",
+    "score": -0.30000001192092896,
+    "magnitude": 0.30000001192092896,
+    "tag": "malestar"
+}, {
+    "text": "Me está afectando con mis padres",
+    "score": -0.699999988079071,
+    "magnitude": 0.699999988079071,
+    "tag": "malestar"
+}, {
+    "text": "Me está afectando con mi padre",
+    "score": -0.30000001192092896,
+    "magnitude": 0.30000001192092896,
+    "tag": "malestar"
+}, {
+    "text": "Me está afectando con mi madre",
+    "score": -0.800000011920929,
+    "magnitude": 0.800000011920929,
+    "tag": "malestar"
+}, {
+    "text": "Me está afectando con mis amigos",
+    "score": -0.6000000238418579,
+    "magnitude": 0.6000000238418579,
+    "tag": "malestar"
+}, {
+    "text": "Me está afectando con mis amigas",
+    "score": -0.10000000149011612,
+    "magnitude": 0.10000000149011612,
+    "tag": "malestar"
+}, {
+    "text": "Me está afectando con mis compañeros",
+    "score": -0.6000000238418579,
+    "magnitude": 0.6000000238418579,
+    "tag": "malestar"
+}, {
+    "text": "Me está afectando con mi compañero",
+    "score": -0.4000000059604645,
+    "magnitude": 0.4000000059604645,
+    "tag": "malestar"
+}, {
+    "text": "Me está afectando con mi compañera",
+    "score": -0.699999988079071,
+    "magnitude": 0.699999988079071,
+    "tag": "malestar"
+}, {
+    "text": "Influye de manera negativa socialmente",
+    "score": -0.4000000059604645,
+    "magnitude": 0.4000000059604645,
+    "tag": "malestar"
+}, {
+    "text": "Influye de manera negativa en el ambito social",
+    "score": -0.20000000298023224,
+    "magnitude": 0.20000000298023224,
+    "tag": "malestar"
+}, {
+    "text": "Influye de manera negativa con mi familia",
+    "score": 0.20000000298023224,
+    "magnitude": 0.20000000298023224,
+    "tag": "malestar"
+}, {
+    "text": "Influye de manera negativa con mis padres",
+    "score": -0.4000000059604645,
+    "magnitude": 0.4000000059604645,
+    "tag": "malestar"
+}, {
+    "text": "Influye de manera negativa con mi padre",
+    "score": 0,
+    "magnitude": 0,
+    "tag": "malestar"
+}, {
+    "text": "Influye de manera negativa con mi madre",
+    "score": -0.6000000238418579,
+    "magnitude": 0.6000000238418579,
+    "tag": "malestar"
+}, {
+    "text": "Influye de manera negativa con mis amigos",
+    "score": -0.30000001192092896,
+    "magnitude": 0.30000001192092896,
+    "tag": "malestar"
+}, {
+    "text": "Influye de manera negativa con mis amigas",
+    "score": 0.30000001192092896,
+    "magnitude": 0.30000001192092896,
+    "tag": "malestar"
+}, {
+    "text": "Influye de manera negativa con mis compañeros",
+    "score": -0.30000001192092896,
+    "magnitude": 0.30000001192092896,
+    "tag": "malestar"
+}, {
+    "text": "Influye de manera negativa con mi compañero",
+    "score": 0,
+    "magnitude": 0,
+    "tag": "malestar"
+}, {
+    "text": "Influye de manera negativa con mi compañera",
+    "score": -0.30000001192092896,
+    "magnitude": 0.30000001192092896,
+    "tag": "malestar"
+}, {
+    "text": "Esta influyendo de manera negativa socialmente",
+    "score": -0.4000000059604645,
+    "magnitude": 0.4000000059604645,
+    "tag": "malestar"
+}, {
+    "text": "Esta influyendo de manera negativa en mi socialmente",
+    "score": -0.6000000238418579,
+    "magnitude": 0.6000000238418579,
+    "tag": "malestar"
+}, {
+    "text": "Esta influyendo de manera negativa en mi ambito social",
+    "score": -0.30000001192092896,
+    "magnitude": 0.30000001192092896,
+    "tag": "malestar"
+}, {
+    "text": "Esta influyendo de manera negativa en el ambito social",
+    "score": -0.30000001192092896,
+    "magnitude": 0.30000001192092896,
+    "tag": "malestar"
+}, {
+    "text": "Esta influyendo de manera negativa con mi familia",
+    "score": 0.10000000149011612,
+    "magnitude": 0.10000000149011612,
+    "tag": "malestar"
+}, {
+    "text": "Esta influyendo de manera negativa con mis padres",
+    "score": -0.5,
+    "magnitude": 0.5,
+    "tag": "malestar"
+}, {
+    "text": "Esta influyendo de manera negativa con mi padre",
+    "score": 0,
+    "magnitude": 0,
+    "tag": "malestar"
+}, {
+    "text": "Esta influyendo de manera negativa con mi madre",
+    "score": -0.6000000238418579,
+    "magnitude": 0.6000000238418579,
+    "tag": "malestar"
+}, {
+    "text": "Esta influyendo de manera negativa con mis amigos",
+    "score": -0.4000000059604645,
+    "magnitude": 0.4000000059604645,
+    "tag": "malestar"
+}, {
+    "text": "Esta influyendo de manera negativa con mis amigas",
+    "score": 0.20000000298023224,
+    "magnitude": 0.20000000298023224,
+    "tag": "malestar"
+}, {
+    "text": "Esta influyendo de manera negativa con mis compañeros",
+    "score": -0.4000000059604645,
+    "magnitude": 0.4000000059604645,
+    "tag": "malestar"
+}, {
+    "text": "Esta influyendo de manera negativa con mi compañero",
+    "score": -0.10000000149011612,
+    "magnitude": 0.10000000149011612,
+    "tag": "malestar"
+}, {
+    "text": "Esta influyendo de manera negativa con mi compañera",
+    "score": -0.4000000059604645,
+    "magnitude": 0.4000000059604645,
+    "tag": "malestar"
+}, {
+    "text": "Me causa problemas socialmente",
+    "score": 0,
+    "magnitude": 0,
+    "tag": "malestar"
+}, {
+    "text": "Me causa problemas en mi ambito social",
+    "score": 0.30000001192092896,
+    "magnitude": 0.30000001192092896,
+    "tag": "malestar"
+}, {
+    "text": "Me causa problemas con mi familia",
+    "score": 0.5,
+    "magnitude": 0.5,
+    "tag": "malestar"
+}, {
+    "text": "Me causa problemas con mis padres",
+    "score": 0.20000000298023224,
+    "magnitude": 0.20000000298023224,
+    "tag": "malestar"
+}, {
+    "text": "Me causa problemas con mi padre",
+    "score": 0.4000000059604645,
+    "magnitude": 0.4000000059604645,
+    "tag": "malestar"
+}, {
+    "text": "Me causa problemas con mi madre",
+    "score": -0.10000000149011612,
+    "magnitude": 0.10000000149011612,
+    "tag": "malestar"
+}, {
+    "text": "Me causa problemas con mis amigos",
+    "score": 0.30000001192092896,
+    "magnitude": 0.30000001192092896,
+    "tag": "malestar"
+}, {
+    "text": "Me causa problemas con mis amigas",
+    "score": 0.6000000238418579,
+    "magnitude": 0.6000000238418579,
+    "tag": "malestar"
+}, {
+    "text": "Me causa problemas con mis compañeros",
+    "score": 0.30000001192092896,
+    "magnitude": 0.30000001192092896,
+    "tag": "malestar"
+}, {
+    "text": "Me causa problemas con mi compañero",
+    "score": 0.4000000059604645,
+    "magnitude": 0.4000000059604645,
+    "tag": "malestar"
+}, {
+    "text": "Me causa problemas con mi compañera",
+    "score": 0.10000000149011612,
+    "magnitude": 0.10000000149011612,
+    "tag": "malestar"
+}, {
+    "text": "Me está causando problemas socialmente",
+    "score": -0.4000000059604645,
+    "magnitude": 0.4000000059604645,
+    "tag": "malestar"
+}, {
+    "text": "Me está causando problemas en mi ambito social",
+    "score": -0.10000000149011612,
+    "magnitude": 0.10000000149011612,
+    "tag": "malestar"
+}, {
+    "text": "Me está causando problemas con mi familia",
+    "score": 0.20000000298023224,
+    "magnitude": 0.20000000298023224,
+    "tag": "malestar"
+}, {
+    "text": "Me está causando problemas con mis padres",
+    "score": -0.20000000298023224,
+    "magnitude": 0.20000000298023224,
+    "tag": "malestar"
+}, {
+    "text": "Me está causando problemas con mi padre",
+    "score": 0.10000000149011612,
+    "magnitude": 0.10000000149011612,
+    "tag": "malestar"
+}, {
+    "text": "Me está causando problemas con mi madre",
+    "score": -0.4000000059604645,
+    "magnitude": 0.4000000059604645,
+    "tag": "malestar"
+}, {
+    "text": "Me está causando problemas con mis amigos",
+    "score": -0.10000000149011612,
+    "magnitude": 0.10000000149011612,
+    "tag": "malestar"
+}, {
+    "text": "Me está causando problemas con mis amigas",
+    "score": 0.20000000298023224,
+    "magnitude": 0.20000000298023224,
+    "tag": "malestar"
+}, {
+    "text": "Me está causando problemas con mis compañeros",
+    "score": -0.10000000149011612,
+    "magnitude": 0.10000000149011612,
+    "tag": "malestar"
+}, {
+    "text": "Me está causando problemas con mi compañero",
+    "score": 0,
+    "magnitude": 0,
+    "tag": "malestar"
+}, {
+    "text": "Me está causando problemas con mi compañera",
+    "score": -0.10000000149011612,
+    "magnitude": 0.10000000149011612,
+    "tag": "malestar"
+}, {
+    "text": "Me afecta laboralmente",
+    "score": -0.5,
+    "magnitude": 0.5,
+    "tag": "malestar"
+}, {
+    "text": "Me afecta en el trabajo",
+    "score": -0.4000000059604645,
+    "magnitude": 0.4000000059604645,
+    "tag": "malestar"
+}, {
+    "text": "Me afecta en la oficina",
+    "score": -0.6000000238418579,
+    "magnitude": 0.6000000238418579,
+    "tag": "malestar"
+}, {
+    "text": "Me afecta en la escuela",
+    "score": -0.5,
+    "magnitude": 0.5,
+    "tag": "malestar"
+}, {
+    "text": "Me está afectando laboralmente",
+    "score": -0.699999988079071,
+    "magnitude": 0.699999988079071,
+    "tag": "malestar"
+}, {
+    "text": "Me está afectando en el trabajo",
+    "score": -0.699999988079071,
+    "magnitude": 0.699999988079071,
+    "tag": "malestar"
+}, {
+    "text": "Me está afectando en la oficina",
+    "score": -0.800000011920929,
+    "magnitude": 0.800000011920929,
+    "tag": "malestar"
+}, {
+    "text": "Me está afectando en la escuela",
+    "score": -0.699999988079071,
+    "magnitude": 0.699999988079071,
+    "tag": "malestar"
+}, {
+    "text": "Influye de manera negativa laboralmente",
+    "score": -0.6000000238418579,
+    "magnitude": 0.6000000238418579,
+    "tag": "malestar"
+}, {
+    "text": "Influye de manera negativa en el trabajo",
+    "score": -0.5,
+    "magnitude": 0.5,
+    "tag": "malestar"
+}, {
+    "text": "Influye de manera negativa en la oficina",
+    "score": -0.6000000238418579,
+    "magnitude": 0.6000000238418579,
+    "tag": "malestar"
+}, {
+    "text": "Influye de manera negativa en la escuela",
+    "score": -0.5,
+    "magnitude": 0.5,
+    "tag": "malestar"
+}, {
+    "text": "Está influyendo de manera negativa laboralmente",
+    "score": -0.699999988079071,
+    "magnitude": 0.699999988079071,
+    "tag": "malestar"
+}, {
+    "text": "Está influyendo de manera negativa en el trabajo",
+    "score": -0.6000000238418579,
+    "magnitude": 0.6000000238418579,
+    "tag": "malestar"
+}, {
+    "text": "Está influyendo de manera negativa en la oficina",
+    "score": -0.699999988079071,
+    "magnitude": 0.699999988079071,
+    "tag": "malestar"
+}, {
+    "text": "Está influyendo de manera negativa en la escuela",
+    "score": -0.6000000238418579,
+    "magnitude": 0.6000000238418579,
+    "tag": "malestar"
+}, {
+    "text": "Me causa problemas laborales",
+    "score": 0.20000000298023224,
+    "magnitude": 0.20000000298023224,
+    "tag": "malestar"
+}, {
+    "text": "Me causa problemas en el trabajo",
+    "score": 0,
+    "magnitude": 0,
+    "tag": "malestar"
+}, {
+    "text": "Me causa problemas en la oficina",
+    "score": -0.10000000149011612,
+    "magnitude": 0.10000000149011612,
+    "tag": "malestar"
+}, {
+    "text": "Me causa problemas en la escuela",
+    "score": 0,
+    "magnitude": 0,
+    "tag": "malestar"
+}, {
+    "text": "Me está causando problemas laborales",
+    "score": -0.20000000298023224,
+    "magnitude": 0.20000000298023224,
+    "tag": "malestar"
+}, {
+    "text": "Me está causando problemas en el trabajo",
+    "score": -0.20000000298023224,
+    "magnitude": 0.20000000298023224,
+    "tag": "malestar"
+}, {
+    "text": "Me está causando problemas en la oficina",
+    "score": -0.4000000059604645,
+    "magnitude": 0.4000000059604645,
+    "tag": "malestar"
+}]

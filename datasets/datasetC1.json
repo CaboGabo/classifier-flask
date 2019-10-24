@@ -1,0 +1,491 @@
+[{
+    "text": "Ingiero drogas",
+    "score": 0,
+    "magnitude": 0,
+    "tag": "consumoAfeccion"
+}, {
+    "text": "Ingiero medicamentos",
+    "score": 0.20000000298023224,
+    "magnitude": 0.20000000298023224,
+    "tag": "consumoAfeccion"
+}, {
+    "text": "Ingiero sustancias",
+    "score": 0,
+    "magnitude": 0,
+    "tag": "consumoAfeccion"
+}, {
+    "text": "Ingiero pastillas",
+    "score": 0.20000000298023224,
+    "magnitude": 0.20000000298023224,
+    "tag": "consumoAfeccion"
+}, {
+    "text": "Ingiero quimicos",
+    "score": 0,
+    "magnitude": 0,
+    "tag": "consumoAfeccion"
+}, {
+    "text": "Ingiero narcóticos",
+    "score": 0,
+    "magnitude": 0,
+    "tag": "consumoAfeccion"
+}, {
+    "text": "Ingiero estupefaciente",
+    "score": 0,
+    "magnitude": 0,
+    "tag": "consumoAfeccion"
+}, {
+    "text": "Ingiero alucinógenos",
+    "score": 0,
+    "magnitude": 0,
+    "tag": "consumoAfeccion"
+}, {
+    "text": "Ingiero somníferos",
+    "score": 0,
+    "magnitude": 0,
+    "tag": "consumoAfeccion"
+}, {
+    "text": "Ingiero medicamentos",
+    "score": 0.20000000298023224,
+    "magnitude": 0.20000000298023224,
+    "tag": "consumoAfeccion"
+}, {
+    "text": "Ingiero marihuana",
+    "score": 0.20000000298023224,
+    "magnitude": 0.20000000298023224,
+    "tag": "consumoAfeccion"
+}, {
+    "text": "Ingiero cocaína",
+    "score": 0,
+    "magnitude": 0,
+    "tag": "consumoAfeccion"
+}, {
+    "text": "Ingiero alcohol",
+    "score": 0.10000000149011612,
+    "magnitude": 0.10000000149011612,
+    "tag": "consumoAfeccion"
+}, {
+    "text": "Ingiero porro",
+    "score": 0.20000000298023224,
+    "magnitude": 0.20000000298023224,
+    "tag": "consumoAfeccion"
+}, {
+    "text": "Ingiero tranquilizante",
+    "score": 0,
+    "magnitude": 0,
+    "tag": "consumoAfeccion"
+}, {
+    "text": "Ingiero anfetaminas",
+    "score": 0,
+    "magnitude": 0,
+    "tag": "consumoAfeccion"
+}, {
+    "text": "Ingiero éxtasis",
+    "score": 0,
+    "magnitude": 0,
+    "tag": "consumoAfeccion"
+}, {
+    "text": "Ingiero heroína",
+    "score": 0,
+    "magnitude": 0,
+    "tag": "consumoAfeccion"
+}, {
+    "text": "Ingiero lsd",
+    "score": 0.10000000149011612,
+    "magnitude": 0.10000000149011612,
+    "tag": "consumoAfeccion"
+}, {
+    "text": "Ingiero ácido",
+    "score": 0,
+    "magnitude": 0,
+    "tag": "consumoAfeccion"
+}, {
+    "text": "Consumo drogas",
+    "score": -0.699999988079071,
+    "magnitude": 0.699999988079071,
+    "tag": "consumoAfeccion"
+}, {
+    "text": "Consumo medicamentos",
+    "score": -0.4000000059604645,
+    "magnitude": 0.4000000059604645,
+    "tag": "consumoAfeccion"
+}, {
+    "text": "Consumo sustancias",
+    "score": -0.5,
+    "magnitude": 0.5,
+    "tag": "consumoAfeccion"
+}, {
+    "text": "Consumo pastillas",
+    "score": -0.5,
+    "magnitude": 0.5,
+    "tag": "consumoAfeccion"
+}, {
+    "text": "Consumo quimicos",
+    "score": -0.5,
+    "magnitude": 0.5,
+    "tag": "consumoAfeccion"
+}, {
+    "text": "Consumo narcóticos",
+    "score": -0.5,
+    "magnitude": 0.5,
+    "tag": "consumoAfeccion"
+}, {
+    "text": "Consumo estupefaciente",
+    "score": -0.5,
+    "magnitude": 0.5,
+    "tag": "consumoAfeccion"
+}, {
+    "text": "Consumo alucinógenos",
+    "score": -0.5,
+    "magnitude": 0.5,
+    "tag": "consumoAfeccion"
+}, {
+    "text": "Consumo somníferos",
+    "score": -0.5,
+    "magnitude": 0.5,
+    "tag": "consumoAfeccion"
+}, {
+    "text": "Consumo medicamentos",
+    "score": -0.4000000059604645,
+    "magnitude": 0.4000000059604645,
+    "tag": "consumoAfeccion"
+}, {
+    "text": "Consumo marihuana",
+    "score": -0.5,
+    "magnitude": 0.5,
+    "tag": "consumoAfeccion"
+}, {
+    "text": "Consumo cocaína",
+    "score": -0.5,
+    "magnitude": 0.5,
+    "tag": "consumoAfeccion"
+}, {
+    "text": "Consumo alcohol",
+    "score": -0.4000000059604645,
+    "magnitude": 0.4000000059604645,
+    "tag": "consumoAfeccion"
+}, {
+    "text": "Consumo porro",
+    "score": -0.5,
+    "magnitude": 0.5,
+    "tag": "consumoAfeccion"
+}, {
+    "text": "Consumo tranquilizante",
+    "score": -0.5,
+    "magnitude": 0.5,
+    "tag": "consumoAfeccion"
+}, {
+    "text": "Consumo anfetaminas",
+    "score": -0.5,
+    "magnitude": 0.5,
+    "tag": "consumoAfeccion"
+}, {
+    "text": "Consumo éxtasis",
+    "score": -0.5,
+    "magnitude": 0.5,
+    "tag": "consumoAfeccion"
+}, {
+    "text": "Consumo heroína",
+    "score": -0.5,
+    "magnitude": 0.5,
+    "tag": "consumoAfeccion"
+}, {
+    "text": "Consumo lsd",
+    "score": -0.4000000059604645,
+    "magnitude": 0.4000000059604645,
+    "tag": "consumoAfeccion"
+}, {
+    "text": "Consumo ácido",
+    "score": -0.699999988079071,
+    "magnitude": 0.699999988079071,
+    "tag": "consumoAfeccion"
+}, {
+    "text": "Inhalo cocaina",
+    "score": 0.10000000149011612,
+    "magnitude": 0.10000000149011612,
+    "tag": "consumoAfeccion"
+}, {
+    "text": "Inhalo droga",
+    "score": 0.4000000059604645,
+    "magnitude": 0.4000000059604645,
+    "tag": "consumoAfeccion"
+}, {
+    "text": "Inhalo sustancias",
+    "score": 0.10000000149011612,
+    "magnitude": 0.10000000149011612,
+    "tag": "consumoAfeccion"
+}, {
+    "text": "Inhalo quimicos",
+    "score": 0,
+    "magnitude": 0,
+    "tag": "consumoAfeccion"
+}, {
+    "text": "Inhalo narcoticos",
+    "score": 0,
+    "magnitude": 0,
+    "tag": "consumoAfeccion"
+}, {
+    "text": "Bebo alcohol",
+    "score": 0.10000000149011612,
+    "magnitude": 0.10000000149011612,
+    "tag": "consumoAfeccion"
+}, {
+    "text": "Fumo marihuana",
+    "score": 0.20000000298023224,
+    "magnitude": 0.20000000298023224,
+    "tag": "consumoAfeccion"
+}, {
+    "text": "Fumo sustancias",
+    "score": 0,
+    "magnitude": 0,
+    "tag": "consumoAfeccion"
+}, {
+    "text": "Fumo químicos",
+    "score": 0.10000000149011612,
+    "magnitude": 0.10000000149011612,
+    "tag": "consumoAfeccion"
+}, {
+    "text": "Fumo porro",
+    "score": 0.20000000298023224,
+    "magnitude": 0.20000000298023224,
+    "tag": "consumoAfeccion"
+}, {
+    "text": "Estoy enfermo",
+    "score": -0.30000001192092896,
+    "magnitude": 0.30000001192092896,
+    "tag": "consumoAfeccion"
+}, {
+    "text": "Estoy enferma",
+    "score": -0.4000000059604645,
+    "magnitude": 0.4000000059604645,
+    "tag": "consumoAfeccion"
+}, {
+    "text": "Tengo una enfermedad",
+    "score": 0.20000000298023224,
+    "magnitude": 0.20000000298023224,
+    "tag": "consumoAfeccion"
+}, {
+    "text": "Me diagnosticaron una enfermedad",
+    "score": 0.4000000059604645,
+    "magnitude": 0.4000000059604645,
+    "tag": "consumoAfeccion"
+}, {
+    "text": "Tengo una enferemedad diagnosticada",
+    "score": -0.10000000149011612,
+    "magnitude": 0.10000000149011612,
+    "tag": "consumoAfeccion"
+}, {
+    "text": "Es por mi enfermedad",
+    "score": 0.5,
+    "magnitude": 0.5,
+    "tag": "consumoAfeccion"
+}, {
+    "text": "Seguro es por mi enfermedad",
+    "score": 0.4000000059604645,
+    "magnitude": 0.4000000059604645,
+    "tag": "consumoAfeccion"
+}, {
+    "text": "Mi enfermedad",
+    "score": 0.4000000059604645,
+    "magnitude": 0.4000000059604645,
+    "tag": "consumoAfeccion"
+}, {
+    "text": "Tengo una afección",
+    "score": -0.10000000149011612,
+    "magnitude": 0.10000000149011612,
+    "tag": "consumoAfeccion"
+}, {
+    "text": "Me diagnosticaron una afección",
+    "score": 0,
+    "magnitude": 0,
+    "tag": "consumoAfeccion"
+}, {
+    "text": "Tengo una afección diagnosticada",
+    "score": -0.10000000149011612,
+    "magnitude": 0.10000000149011612,
+    "tag": "consumoAfeccion"
+}, {
+    "text": "Es por mi afección",
+    "score": 0.30000001192092896,
+    "magnitude": 0.30000001192092896,
+    "tag": "consumoAfeccion"
+}, {
+    "text": "Seguro es por mi afección",
+    "score": 0.20000000298023224,
+    "magnitude": 0.20000000298023224,
+    "tag": "consumoAfeccion"
+}, {
+    "text": "Mi afección",
+    "score": 0.20000000298023224,
+    "magnitude": 0.20000000298023224,
+    "tag": "consumoAfeccion"
+}, {
+    "text": "Tengo una afección medica",
+    "score": -0.10000000149011612,
+    "magnitude": 0.10000000149011612,
+    "tag": "consumoAfeccion"
+}, {
+    "text": "Me diagnosticaron una afección medica",
+    "score": 0,
+    "magnitude": 0,
+    "tag": "consumoAfeccion"
+}, {
+    "text": "Tengo una afección medica diagnosticada",
+    "score": -0.10000000149011612,
+    "magnitude": 0.10000000149011612,
+    "tag": "consumoAfeccion"
+}, {
+    "text": "Es por mi afección medica",
+    "score": 0.30000001192092896,
+    "magnitude": 0.30000001192092896,
+    "tag": "consumoAfeccion"
+}, {
+    "text": "Seguro es por mi afección medica",
+    "score": 0.20000000298023224,
+    "magnitude": 0.20000000298023224,
+    "tag": "consumoAfeccion"
+}, {
+    "text": "Mi afección medica",
+    "score": 0.20000000298023224,
+    "magnitude": 0.20000000298023224,
+    "tag": "consumoAfeccion"
+}, {
+    "text": "Tengo un padecimiento",
+    "score": 0,
+    "magnitude": 0,
+    "tag": "consumoAfeccion"
+}, {
+    "text": "Me diagnosticaron un padecimiento",
+    "score": 0.20000000298023224,
+    "magnitude": 0.20000000298023224,
+    "tag": "consumoAfeccion"
+}, {
+    "text": "Tengo un padecimiento diagnosticado",
+    "score": 0,
+    "magnitude": 0,
+    "tag": "consumoAfeccion"
+}, {
+    "text": "Es por mi padecimiento",
+    "score": 0.30000001192092896,
+    "magnitude": 0.30000001192092896,
+    "tag": "consumoAfeccion"
+}, {
+    "text": "Seguro es por mi padecimiento",
+    "score": 0.20000000298023224,
+    "magnitude": 0.20000000298023224,
+    "tag": "consumoAfeccion"
+}, {
+    "text": "Mi padecimiento",
+    "score": 0.20000000298023224,
+    "magnitude": 0.20000000298023224,
+    "tag": "consumoAfeccion"
+}, {
+    "text": "Ingiero comida",
+    "score": 0,
+    "magnitude": 0,
+    "tag": "sin_ConsumoAfeccion"
+}, {
+    "text": "Ingiero papas fritas",
+    "score": 0.20000000298023224,
+    "magnitude": 0.20000000298023224,
+    "tag": "sin_ConsumoAfeccion"
+}, {
+    "text": "Ingiero refresco",
+    "score": 0.10000000149011612,
+    "magnitude": 0.10000000149011612,
+    "tag": "sin_ConsumoAfeccion"
+}, {
+    "text": "Ingiero coca cola",
+    "score": 0,
+    "magnitude": 0,
+    "tag": "sin_ConsumoAfeccion"
+}, {
+    "text": "Ingiero golosinas",
+    "score": 0.30000001192092896,
+    "magnitude": 0.30000001192092896,
+    "tag": "sin_ConsumoAfeccion"
+}, {
+    "text": "Consumo comida",
+    "score": -0.800000011920929,
+    "magnitude": 0.800000011920929,
+    "tag": "sin_ConsumoAfeccion"
+}, {
+    "text": "Consumo papas fritas",
+    "score": -0.20000000298023224,
+    "magnitude": 0.20000000298023224,
+    "tag": "sin_ConsumoAfeccion"
+}, {
+    "text": "Consumo refresco",
+    "score": -0.4000000059604645,
+    "magnitude": 0.4000000059604645,
+    "tag": "sin_ConsumoAfeccion"
+}, {
+    "text": "Consumo coca cola",
+    "score": -0.699999988079071,
+    "magnitude": 0.699999988079071,
+    "tag": "sin_ConsumoAfeccion"
+}, {
+    "text": "Consumo golosinas",
+    "score": -0.10000000149011612,
+    "magnitude": 0.10000000149011612,
+    "tag": "sin_ConsumoAfeccion"
+}, {
+    "text": "Bebo agua",
+    "score": 0.10000000149011612,
+    "magnitude": 0.10000000149011612,
+    "tag": "sin_ConsumoAfeccion"
+}, {
+    "text": "Bebo refresco",
+    "score": 0.10000000149011612,
+    "magnitude": 0.10000000149011612,
+    "tag": "sin_ConsumoAfeccion"
+}, {
+    "text": "Bebo coca cola",
+    "score": 0,
+    "magnitude": 0,
+    "tag": "sin_ConsumoAfeccion"
+}, {
+    "text": "Bebo cafe",
+    "score": 0.10000000149011612,
+    "magnitude": 0.10000000149011612,
+    "tag": "sin_ConsumoAfeccion"
+}, {
+    "text": "Bebo te",
+    "score": 0.10000000149011612,
+    "magnitude": 0.10000000149011612,
+    "tag": "sin_ConsumoAfeccion"
+}, {
+    "text": "Bebo jugo",
+    "score": 0.10000000149011612,
+    "magnitude": 0.10000000149011612,
+    "tag": "sin_ConsumoAfeccion"
+}, {
+    "text": "Es una sonrisa tranquilizadora",
+    "score": 0.5,
+    "magnitude": 0.5,
+    "tag": "sin_ConsumoAfeccion"
+}, {
+    "text": "qué es",
+    "score": 0,
+    "magnitude": 0,
+    "tag": "sin_ConsumoAfeccion"
+}, {
+    "text": "que aún no es",
+    "score": -0.30000001192092896,
+    "magnitude": 0.30000001192092896,
+    "tag": "sin_ConsumoAfeccion"
+}, {
+    "text": "Cada vez me canso más",
+    "score": -0.800000011920929,
+    "magnitude": 0.800000011920929,
+    "tag": "sin_ConsumoAfeccion"
+}, {
+    "text": "ya no tengo pilas para nada",
+    "score": -0.699999988079071,
+    "magnitude": 0.699999988079071,
+    "tag": "sin_ConsumoAfeccion"
+}, {
+    "text": "Estoy exahusto",
+    "score": 0.10000000149011612,
+    "magnitude": 0.10000000149011612,
+    "tag": "sin_ConsumoAfeccion"
+}]
