@@ -58,8 +58,8 @@ def removeWords(tokenized_word):
 # Función que obtiene la cadena tokenizada
 def getTokenizedText(arrayObj):
     for obj in arrayObj:
-        tokenized_text = word_tokenize(obj['text'])
-        obj['text'] = removeWords(tokenized_text)
+        tokenized_text = word_tokenize(obj['content'])
+        obj['content'] = removeWords(tokenized_text)
     return arrayObj
 
 # Función que obtiene todas las palabras usadas en el conjunto de entrenamiento
@@ -68,7 +68,7 @@ def getTokenizedText(arrayObj):
 def getAllWords(arrayObjTokenized):
     words = []
     for obj in arrayObjTokenized:
-        for w in obj['text']:
+        for w in obj['content']:
             words.append(w.lower())
     return words
 
@@ -78,10 +78,10 @@ def getAllWords(arrayObjTokenized):
 def documentFeatures(obj, word_features):
     features = {}
     [objStemmed] = stemming([obj])
-    document_words = set(objStemmed['text'])
+    document_words = set(objStemmed['content'])
     for word in word_features:
         features['contains(%s)' % word] = (word in document_words)
-    features['score'] = obj['score']
+    features['sentimen'] = obj['sentiment']
     features['magnitude'] = obj['magnitude']
     return features
 
@@ -92,10 +92,10 @@ def stemming(objArray):
     stemmer = SnowballStemmer('spanish')
     for obj in objArray:
         stemmed_words = []
-        for w in obj['text']:
+        for w in obj['content']:
             stemmed_words.append(stemmer.stem(w))
 
-        obj['text'] = stemmed_words
+        obj['content'] = stemmed_words
 
     return objArray
 

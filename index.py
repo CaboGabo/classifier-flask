@@ -15,8 +15,8 @@ def diagnosticate():
 
     results = []
     for post in posts:
-        post['text'] = removeWords(post['text'])
-        total_words += post['text']
+        post['content'] = removeWords(post['content'])
+        total_words += post['content']
         [stemmed]  = stemming([post])
         post = stemmed
         postTags = []

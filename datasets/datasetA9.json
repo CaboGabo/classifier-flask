@@ -1,1 +1,891 @@
-[{"text":"Me quiero morir","score":0.10000000149011612,"magnitude":0.10000000149011612,"tag":"p_muerte"},{"text":"Deseo morir","score":0.20000000298023224,"magnitude":0.20000000298023224,"tag":"p_muerte"},{"text":"Ya quiero morir","score":0.10000000149011612,"magnitude":0.10000000149011612,"tag":"p_muerte"},{"text":"Ya matenme","score":0.20000000298023224,"magnitude":0.20000000298023224,"tag":"p_muerte"},{"text":"Ayer tenía ganas de suicidarme","score":-0.699999988079071,"magnitude":0.699999988079071,"tag":"p_muerte"},{"text":"Tengo ganas de suicidarme","score":-0.6000000238418579,"magnitude":0.6000000238418579,"tag":"p_muerte"},{"text":"El suicidio es la solución","score":-0.20000000298023224,"magnitude":0.20000000298023224,"tag":"p_muerte"},{"text":"Suicidarme es la solución","score":0.10000000149011612,"magnitude":0.10000000149011612,"tag":"p_muerte"},{"text":"He pensado en suicidarme","score":-0.699999988079071,"magnitude":0.699999988079071,"tag":"p_muerte"},{"text":"Quiero suicidarme","score":-0.6000000238418579,"magnitude":0.6000000238418579,"tag":"p_muerte"},{"text":"Suicidarme es la mejor opción","score":0.800000011920929,"magnitude":0.800000011920929,"tag":"p_muerte"},{"text":"La vida no vale nada","score":-0.800000011920929,"magnitude":0.800000011920929,"tag":"p_muerte"},{"text":"Ya no quiero vivir más tiempo","score":0.699999988079071,"magnitude":0.699999988079071,"tag":"p_muerte"},{"text":"Me voy a matar","score":0.5,"magnitude":0.5,"tag":"p_muerte"},{"text":"Morirme es la solución a mis problemas","score":0.10000000149011612,"magnitude":0.10000000149011612,"tag":"p_muerte"},{"text":"Decidí acabar con mi vida","score":0.30000001192092896,"magnitude":0.30000001192092896,"tag":"p_muerte"},{"text":"He pensado quitarme la vida","score":-0.20000000298023224,"magnitude":0.20000000298023224,"tag":"p_muerte"},{"text":"Decidí quitarme la vida","score":-0.30000001192092896,"magnitude":0.30000001192092896,"tag":"p_muerte"},{"text":"Voy a quitarme la vida","score":-0.30000001192092896,"magnitude":0.30000001192092896,"tag":"p_muerte"},{"text":"Quiero quitarme la vida","score":-0.30000001192092896,"magnitude":0.30000001192092896,"tag":"p_muerte"},{"text":"Voy a terminar con esto de una vez por todas","score":-0.30000001192092896,"magnitude":0.30000001192092896,"tag":"p_muerte"},{"text":"Mi vida no vale nada","score":-0.800000011920929,"magnitude":0.800000011920929,"tag":"p_muerte"},{"text":"Desearía estar muerto","score":-0.30000001192092896,"magnitude":0.30000001192092896,"tag":"p_muerte"},{"text":"Desearía estar muerta","score":0.10000000149011612,"magnitude":0.10000000149011612,"tag":"p_muerte"},{"text":"Desearía no haber nacido","score":-0.30000001192092896,"magnitude":0.30000001192092896,"tag":"p_muerte"},{"text":"Me pienso hacer daño","score":-0.20000000298023224,"magnitude":0.20000000298023224,"tag":"p_muerte"},{"text":"Me despido de este mundo","score":0.30000001192092896,"magnitude":0.30000001192092896,"tag":"p_muerte"},{"text":"Quiero irme de este mundo","score":0.30000001192092896,"magnitude":0.30000001192092896,"tag":"p_muerte"},{"text":"Me preocupa la muerte","score":0.30000001192092896,"magnitude":0.30000001192092896,"tag":"p_muerte"},{"text":"He perdido la esperanza","score":-0.4000000059604645,"magnitude":0.4000000059604645,"tag":"p_muerte"},{"text":"Estoy a punto de cometer un acto suicida","score":0.10000000149011612,"magnitude":0.10000000149011612,"tag":"p_muerte"},{"text":"Solo veo obscuridad","score":-0.30000001192092896,"magnitude":0.30000001192092896,"tag":"p_muerte"},{"text":"La única solución es la muerte","score":0.6000000238418579,"magnitude":0.6000000238418579,"tag":"p_muerte"},{"text":"La solución a mis problemas es acabar con mi vida","score":0.30000001192092896,"magnitude":0.30000001192092896,"tag":"p_muerte"},{"text":"Ya quiero desaparecer de la tierra","score":-0.10000000149011612,"magnitude":0.10000000149011612,"tag":"p_muerte"},{"text":"No quiero vivir un día más","score":0.6000000238418579,"magnitude":0.6000000238418579,"tag":"p_muerte"},{"text":"Solo quiero morir","score":0,"magnitude":0,"tag":"p_muerte"},{"text":"Pienso en matarme constantemente","score":0.6000000238418579,"magnitude":0.6000000238418579,"tag":"p_muerte"},{"text":"Tengo intenciones de matarme","score":0.30000001192092896,"magnitude":0.30000001192092896,"tag":"p_muerte"},{"text":"Voy a matarme uno de estos días","score":0.30000001192092896,"magnitude":0.30000001192092896,"tag":"p_muerte"},{"text":"Me voy a suicidar","score":-0.6000000238418579,"magnitude":0.6000000238418579,"tag":"p_muerte"},{"text":"no hay día en el cual no piense matarme","score":-0.10000000149011612,"magnitude":0.10000000149011612,"tag":"p_muerte"},{"text":"Solo quiero morir y descansar en paz","score":0.30000001192092896,"magnitude":0.30000001192092896,"tag":"p_muerte"},{"text":"Siento que ya no voy a poder más","score":-0.5,"magnitude":0.5,"tag":"p_muerte"},{"text":"Dejar de existir","score":-0.6000000238418579,"magnitude":0.6000000238418579,"tag":"p_muerte"},{"text":"Desería dejar de existir","score":0,"magnitude":0,"tag":"p_muerte"},{"text":"Deseo dejar de existir","score":0.10000000149011612,"magnitude":0.10000000149011612,"tag":"p_muerte"},{"text":"Quisiera dejar de existir","score":0.20000000298023224,"magnitude":0.20000000298023224,"tag":"p_muerte"},{"text":"Quiero dejar de existir","score":0,"magnitude":0,"tag":"p_muerte"},{"text":"elegir dejar de existir","score":0.10000000149011612,"magnitude":0.10000000149011612,"tag":"p_muerte"},{"text":"decidir dejar de existir","score":0,"magnitude":0,"tag":"p_muerte"},{"text":"elegir el momento para dejar de existir","score":0.10000000149011612,"magnitude":0.10000000149011612,"tag":"p_muerte"},{"text":"Le pido a dios que me lleve","score":0.4000000059604645,"magnitude":0.4000000059604645,"tag":"p_muerte"},{"text":"Llevame dios","score":0.10000000149011612,"magnitude":0.10000000149011612,"tag":"p_muerte"},{"text":"Necesito irme de este sufrimiento","score":-0.30000001192092896,"magnitude":0.30000001192092896,"tag":"p_muerte"},{"text":"Necesito irme de este mundo","score":0.20000000298023224,"magnitude":0.20000000298023224,"tag":"p_muerte"},{"text":"Necesito morir","score":-0.10000000149011612,"magnitude":0.10000000149011612,"tag":"p_muerte"},{"text":"Necesito dejar de existir","score":-0.10000000149011612,"magnitude":0.10000000149011612,"tag":"p_muerte"},{"text":"Querer desaparecer","score":-0.10000000149011612,"magnitude":0.10000000149011612,"tag":"p_muerte"},{"text":"Quiero desaparecer","score":0,"magnitude":0,"tag":"p_muerte"},{"text":"Quisiera desaparecer","score":0,"magnitude":0,"tag":"p_muerte"},{"text":"A veces me odio hasta el punto de querer desaparecer","score":-0.699999988079071,"magnitude":0.699999988079071,"tag":"p_muerte"},{"text":"Mi vida terminará","score":0.5,"magnitude":0.5,"tag":"p_muerte"},{"text":"Mi vida terminará pronto","score":0.5,"magnitude":0.5,"tag":"p_muerte"},{"text":"Quiero que mi vida termine pronto","score":0.6000000238418579,"magnitude":0.6000000238418579,"tag":"p_muerte"},{"text":"Quisiera que mi vida termine pronto","score":0.6000000238418579,"magnitude":0.6000000238418579,"tag":"p_muerte"},{"text":"Siento que mi vida terminará pronto","score":0.5,"magnitude":0.5,"tag":"p_muerte"},{"text":"Vivir es de lo mejor que hay","score":0.8999999761581421,"magnitude":0.8999999761581421,"tag":"p_vida"},{"text":"Quiero habla con alguien","score":-0.10000000149011612,"magnitude":0.10000000149011612,"tag":"p_vida"},{"text":"Estoy en una dificil situación","score":0,"magnitude":0,"tag":"p_vida"},{"text":"Me haré muestras de sangre y otro tipo de exámenes","score":0.5,"magnitude":0.5,"tag":"p_vida"},{"text":"Francamente no me hallo mucho en el entorno y el ambiente.","score":-0.5,"magnitude":0.5,"tag":"p_vida"},{"text":"Ayer tenía ganas de jugar","score":-0.10000000149011612,"magnitude":0.10000000149011612,"tag":"p_vida"},{"text":"La vida es lo más importante que tenemos","score":0.4000000059604645,"magnitude":0.4000000059604645,"tag":"p_vida"},{"text":"Quiero llegar a ser viejito","score":0.10000000149011612,"magnitude":0.10000000149011612,"tag":"p_vida"},{"text":"Morirse nunca es la solución","score":-0.4000000059604645,"magnitude":0.4000000059604645,"tag":"p_vida"},{"text":"Decidí acabar con mis estudios","score":0.30000001192092896,"magnitude":0.30000001192092896,"tag":"p_vida"},{"text":"Voy a terminar mi tarea en estos días","score":0,"magnitude":0,"tag":"p_vida"},{"text":"Siempre le he tenido miedo a la obscuridad","score":0.6000000238418579,"magnitude":0.6000000238418579,"tag":"p_vida"},{"text":"Quiero irme de mi casa","score":0.10000000149011612,"magnitude":0.10000000149011612,"tag":"p_vida"},{"text":"Ayer perdí mi carter","score":-0.699999988079071,"magnitude":0.699999988079071,"tag":"spero recuperarla"},{"text":"No importan los problema","score":0.699999988079071,"magnitude":0.699999988079071,"tag":"a vida es bella"},{"text":"No quiero ir a la escuela","score":-0.5,"magnitude":0.5,"tag":"p_vida"},{"text":"Ayer me despedí rápido de mi amigo","score":0.6000000238418579,"magnitude":0.6000000238418579,"tag":"p_vida"},{"text":"Aunque la vida sea difici","score":0.699999988079071,"magnitude":0.699999988079071,"tag":"ay que seguir luchando"},{"text":"Hay que ir siempre para adelante","score":0.10000000149011612,"magnitude":0.10000000149011612,"tag":"p_vida"},{"text":"No me gustan los vegetales","score":-0.5,"magnitude":0.5,"tag":"p_vida"},{"text":"No me agrada nada ese tipo","score":-0.8999999761581421,"magnitude":0.8999999761581421,"tag":"p_vida"},{"text":"La violencia la sufrimos todos","score":-0.20000000298023224,"magnitude":0.20000000298023224,"tag":"p_vida"},{"text":"el estar en linea no me hace sentir tan solo","score":0,"magnitude":0,"tag":"p_vida"},{"text":"No me considero perfeccionista","score":-0.5,"magnitude":0.5,"tag":"p_vida"},{"text":"pero todo me afecta","score":-0.30000001192092896,"magnitude":0.30000001192092896,"tag":"p_vida"},{"text":"empece a sentir esto desde el año pasado","score":0.6000000238418579,"magnitude":0.6000000238418579,"tag":"p_vida"},{"text":"cambiar de personalidad","score":0.20000000298023224,"magnitude":0.20000000298023224,"tag":"p_vida"},{"text":"ODIO hacer squats","score":-0.699999988079071,"magnitude":0.699999988079071,"tag":"p_vida"},{"text":"les dejo este video para al menos terminarlo con buen sabor de boca","score":0,"magnitude":0,"tag":"p_vida"},{"text":"pensar","score":0.699999988079071,"magnitude":0.699999988079071,"tag":"p_vida"},{"text":"Hoy fui a hacerme","score":0,"magnitude":0,"tag":"p_vida"},{"text":"una vez más","score":0,"magnitude":0,"tag":"p_vida"},{"text":"un test de VIH","score":0.10000000149011612,"magnitude":0.10000000149011612,"tag":"p_vida"},{"text":"paz","score":0.10000000149011612,"magnitude":0.10000000149011612,"tag":"p_vida"},{"text":"Debemos pagar el precio de intentar conseguir la vida que queremos","score":-0.20000000298023224,"magnitude":0.20000000298023224,"tag":"p_vida"},{"text":"estaban igual de solos ayer","score":-0.4000000059604645,"magnitude":0.4000000059604645,"tag":"p_vida"},{"text":"estarán igual de solos mañana","score":-0.20000000298023224,"magnitude":0.20000000298023224,"tag":"p_vida"},{"text":"Es el dolor más grande y más profundo","score":-0.30000001192092896,"magnitude":0.30000001192092896,"tag":"p_vida"},{"text":"se piden por Internet","score":-0.30000001192092896,"magnitude":0.30000001192092896,"tag":"p_vida"},{"text":"solo de su carisma ","score":-0.10000000149011612,"magnitude":0.10000000149011612,"tag":"p_vida"},{"text":"en el 50 aniversario de nuestra Alma Mater para disfrutar de todo su contenido","score":0.800000011920929,"magnitude":0.800000011920929,"tag":"p_vida"},{"text":"como: “Este tiempo es más largo que aquel otro”","score":0.30000001192092896,"magnitude":0.30000001192092896,"tag":"p_vida"},{"text":"Mido el tiempo","score":0.10000000149011612,"magnitude":0.10000000149011612,"tag":"p_vida"},{"text":"mido el futuro","score":0.800000011920929,"magnitude":0.800000011920929,"tag":"p_vida"},{"text":"mido el presente","score":0.10000000149011612,"magnitude":0.10000000149011612,"tag":"p_vida"},{"text":"mido el pretérito","score":0.10000000149011612,"magnitude":0.10000000149011612,"tag":"p_vida"},{"text":"a ustedes una mía buscándome","score":0.10000000149011612,"magnitude":0.10000000149011612,"tag":"p_vida"},{"text":"Si se ven bien pendejos/pendejas defendiendo algo sólo por llevar la contraria","score":-0.4000000059604645,"magnitude":0.4000000059604645,"tag":"p_vida"},{"text":"solo quería pedirles algunos consejos","score":-0.20000000298023224,"magnitude":0.20000000298023224,"tag":"p_vida"},{"text":"este dolor de cabeza me anuncia un próximo pesar","score":-0.4000000059604645,"magnitude":0.4000000059604645,"tag":"p_vida"},{"text":"mi madre por problemas de lumbociatica","score":0,"magnitude":0,"tag":"p_vida"},{"text":"vivo sola","score":0.10000000149011612,"magnitude":0.10000000149011612,"tag":"p_vida"},{"text":"estoy en un punto donde tomo","score":0.10000000149011612,"magnitude":0.10000000149011612,"tag":"p_vida"},{"text":"poco a poco estoy saliendo de esto","score":-0.20000000298023224,"magnitude":0.20000000298023224,"tag":"p_vida"},{"text":"Un suave dolor de cabeza me quiere acompañar durante el resto del día pero ya estoy acostumbrado a eso","score":0.4000000059604645,"magnitude":0.4000000059604645,"tag":"p_vida"},{"text":"ver el mundo diferente","score":0.5,"magnitude":0.5,"tag":"p_vida"},{"text":"fortaleza amén explica lo que Dios ha hecho en ti hoy amén dale gracias por un día más de vida amén","score":0.800000011920929,"magnitude":0.800000011920929,"tag":"p_vida"},{"text":"Tuve un entrenamiento de vida","score":0.5,"magnitude":0.5,"tag":"p_vida"},{"text":"La vida lo es todo","score":0.4000000059604645,"magnitude":0.4000000059604645,"tag":"p_vida"},{"text":"Este ultimo año he tenido muchisima hambre","score":-0.20000000298023224,"magnitude":0.20000000298023224,"tag":"p_vida"},{"text":"Me pregunto si existe una Enkarni de verdad","score":-0.6000000238418579,"magnitude":0.6000000238418579,"tag":"p_vida"},{"text":"Me siento fatal he estado muy mal estos dias ayer discuti con mis hijos creo que ya se aburrieron de mi","score":-0.800000011920929,"magnitude":0.800000011920929,"tag":"p_vida"},{"text":"Ya me quede sin dinero","score":0.10000000149011612,"magnitude":0.10000000149011612,"tag":"p_vida"},{"text":"quiero contar que aparentemente no tengo problemas de tipo economico","score":0.800000011920929,"magnitude":0.800000011920929,"tag":"p_vida"},{"text":"He encontrado este foro","score":0.800000011920929,"magnitude":0.800000011920929,"tag":"p_vida"},{"text":"a mi me hizo mucho daño su comportamiento quería estar con ella pero ella no quería nada de nadie","score":-0.800000011920929,"magnitude":0.800000011920929,"tag":"p_vida"},{"text":"no quiero hacerles daño","score":-0.5,"magnitude":0.5,"tag":"p_vida"},{"text":"este trabajo me ha creado tanta ansiedad","score":0.6000000238418579,"magnitude":0.6000000238418579,"tag":"p_vida"},{"text":"No poder dormir me está matando","score":-0.10000000149011612,"magnitude":0.10000000149011612,"tag":"p_vida"},{"text":"He perdido la ilusión","score":-0.699999988079071,"magnitude":0.699999988079071,"tag":"p_vida"},{"text":"nada me motiva","score":-0.20000000298023224,"magnitude":0.20000000298023224,"tag":"p_vida"},{"text":"también existen personas que solo son pasajeros en tu vida","score":0,"magnitude":0,"tag":"p_vida"},{"text":"Un excelente curso si pueden llevar también Cálculo IV con él","score":0.8999999761581421,"magnitude":0.8999999761581421,"tag":"p_vida"},{"text":"comienzas a disfrutar la vida","score":0.5,"magnitude":0.5,"tag":"p_vida"},{"text":"de día","score":0.10000000149011612,"magnitude":0.10000000149011612,"tag":"p_vida"},{"text":"No siento deseos ni siquiera de levantarme","score":-0.8999999761581421,"magnitude":0.8999999761581421,"tag":"p_vida"},{"text":"eso no me deja concentrarme","score":-0.6000000238418579,"magnitude":0.6000000238418579,"tag":"p_vida"},{"text":"Por Dio","score":0.6000000238418579,"magnitude":0.6000000238418579,"tag":"e costó un mundo levantarme hoy"},{"text":"Dios no existe","score":-0.20000000298023224,"magnitude":0.20000000298023224,"tag":"p_vida"},{"text":"Dios es bueno","score":0.699999988079071,"magnitude":0.699999988079071,"tag":"p_vida"},{"text":"más cuando tienes estos trastornos porque Dios de habrá enseñado conmigo no entiendo que hice mal para merecerme esto a la final el tiene sus designios a sido tanto mi pensamiento de dormir","score":0.6000000238418579,"magnitude":0.6000000238418579,"tag":"p_vida"},{"text":"las cosas que antes me provocaban placer ahora son una más","score":0.10000000149011612,"magnitude":0.10000000149011612,"tag":"p_vida"},{"text":"Cada día caigo más profundo en el pozo","score":-0.30000001192092896,"magnitude":0.30000001192092896,"tag":"p_vida"},{"text":"recibi atencion psicologica mas sin embargo no siento alguna mejoria","score":-0.6000000238418579,"magnitude":0.6000000238418579,"tag":"p_vida"},{"text":"cada día engordo más","score":0.20000000298023224,"magnitude":0.20000000298023224,"tag":"p_vida"},{"text":"factores de mi depresión pueden haber muchos pero que mas da mencionarlos","score":0.10000000149011612,"magnitude":0.10000000149011612,"tag":"p_vida"},{"text":"te das cuenta que dejaste un desastre en tu vida autocompadeciendote","score":-0.800000011920929,"magnitude":0.800000011920929,"tag":"p_vida"},{"text":"como si la vida misma fuera otra monotonía más por hacer","score":0.30000001192092896,"magnitude":0.30000001192092896,"tag":"p_vida"},{"text":"a veces es mejor solo dejarse llevar","score":0,"magnitude":0,"tag":"p_vida"},{"text":"Quiero estar bien","score":0.20000000298023224,"magnitude":0.20000000298023224,"tag":"p_vida"},{"text":"siento que la angustia no me está dejando respirar","score":-0.6000000238418579,"magnitude":0.6000000238418579,"tag":"p_vida"},{"text":"Deja de llorar","score":0,"magnitude":0,"tag":"p_vida"},{"text":"El culpable de todo esto soy yo","score":0.30000001192092896,"magnitude":0.30000001192092896,"tag":"p_vida"},{"text":"Tome un poco de mas por la depre","score":0.30000001192092896,"magnitude":0.30000001192092896,"tag":"p_vida"},{"text":"A veces pienso en que debería ir mejor con un psiquiatra","score":0.10000000149011612,"magnitude":0.10000000149011612,"tag":"p_vida"},{"text":"En este momento me siento perdida","score":-0.800000011920929,"magnitude":0.800000011920929,"tag":"p_vida"},{"text":"Debo de admitir que mi vida no he vivido alguna dificultad","score":0.30000001192092896,"magnitude":0.30000001192092896,"tag":"p_vida"},{"text":"no me dejan vivir en paz","score":0,"magnitude":0,"tag":"p_vida"},{"text":"más triste","score":-0.30000001192092896,"magnitude":0.30000001192092896,"tag":"p_vida"},{"text":"Actualmente me encuentro en uno de los peores períodos de mi vida","score":-0.699999988079071,"magnitude":0.699999988079071,"tag":"p_vida"},{"text":"Supongo que el adulto cínico no ha logrado matar del todo al niño dentro de mi porque esto me hizo muy feliz","score":0.4000000059604645,"magnitude":0.4000000059604645,"tag":"p_vida"},{"text":"Trabaja","score":0.800000011920929,"magnitude":0.800000011920929,"tag":"ome"},{"text":"No quiero saber nada de nadie","score":-0.800000011920929,"magnitude":0.800000011920929,"tag":"p_vida"},{"text":"espero poder usarlo","score":0.4000000059604645,"magnitude":0.4000000059604645,"tag":"p_vida"},{"text":"Y hoy voy para abajo","score":0.10000000149011612,"magnitude":0.10000000149011612,"tag":"p_vida"},{"text":"ya no tengo pilas para nada","score":-0.699999988079071,"magnitude":0.699999988079071,"tag":"p_vida"},{"text":"ya no me dejo ayudar porque a nadie le importo un carajo","score":-0.4000000059604645,"magnitude":0.4000000059604645,"tag":"p_vida"},{"text":"que tampoco vale la pena seguir me esta matando","score":-0.800000011920929,"magnitude":0.800000011920929,"tag":"p_vida"},{"text":"ahora que pienso","score":0.10000000149011612,"magnitude":0.10000000149011612,"tag":"p_vida"},{"text":"No espero nada de la vida ","score":-0.5,"magnitude":0.5,"tag":"p_vida"},{"text":"Me he sentido mal ultimamente","score":-0.20000000298023224,"magnitude":0.20000000298023224,"tag":"p_vida"}]
+[{
+    "content": "Me quiero morir",
+    "sentiment": 0.10000000149011612,
+    "magnitude": 0.10000000149011612,
+    "tag": "p_muerte"
+}, {
+    "content": "Deseo morir",
+    "sentiment": 0.20000000298023224,
+    "magnitude": 0.20000000298023224,
+    "tag": "p_muerte"
+}, {
+    "content": "Ya quiero morir",
+    "sentiment": 0.10000000149011612,
+    "magnitude": 0.10000000149011612,
+    "tag": "p_muerte"
+}, {
+    "content": "Ya matenme",
+    "sentiment": 0.20000000298023224,
+    "magnitude": 0.20000000298023224,
+    "tag": "p_muerte"
+}, {
+    "content": "Ayer tenía ganas de suicidarme",
+    "sentiment": -0.699999988079071,
+    "magnitude": 0.699999988079071,
+    "tag": "p_muerte"
+}, {
+    "content": "Tengo ganas de suicidarme",
+    "sentiment": -0.6000000238418579,
+    "magnitude": 0.6000000238418579,
+    "tag": "p_muerte"
+}, {
+    "content": "El suicidio es la solución",
+    "sentiment": -0.20000000298023224,
+    "magnitude": 0.20000000298023224,
+    "tag": "p_muerte"
+}, {
+    "content": "Suicidarme es la solución",
+    "sentiment": 0.10000000149011612,
+    "magnitude": 0.10000000149011612,
+    "tag": "p_muerte"
+}, {
+    "content": "He pensado en suicidarme",
+    "sentiment": -0.699999988079071,
+    "magnitude": 0.699999988079071,
+    "tag": "p_muerte"
+}, {
+    "content": "Quiero suicidarme",
+    "sentiment": -0.6000000238418579,
+    "magnitude": 0.6000000238418579,
+    "tag": "p_muerte"
+}, {
+    "content": "Suicidarme es la mejor opción",
+    "sentiment": 0.800000011920929,
+    "magnitude": 0.800000011920929,
+    "tag": "p_muerte"
+}, {
+    "content": "La vida no vale nada",
+    "sentiment": -0.800000011920929,
+    "magnitude": 0.800000011920929,
+    "tag": "p_muerte"
+}, {
+    "content": "Ya no quiero vivir más tiempo",
+    "sentiment": 0.699999988079071,
+    "magnitude": 0.699999988079071,
+    "tag": "p_muerte"
+}, {
+    "content": "Me voy a matar",
+    "sentiment": 0.5,
+    "magnitude": 0.5,
+    "tag": "p_muerte"
+}, {
+    "content": "Morirme es la solución a mis problemas",
+    "sentiment": 0.10000000149011612,
+    "magnitude": 0.10000000149011612,
+    "tag": "p_muerte"
+}, {
+    "content": "Decidí acabar con mi vida",
+    "sentiment": 0.30000001192092896,
+    "magnitude": 0.30000001192092896,
+    "tag": "p_muerte"
+}, {
+    "content": "He pensado quitarme la vida",
+    "sentiment": -0.20000000298023224,
+    "magnitude": 0.20000000298023224,
+    "tag": "p_muerte"
+}, {
+    "content": "Decidí quitarme la vida",
+    "sentiment": -0.30000001192092896,
+    "magnitude": 0.30000001192092896,
+    "tag": "p_muerte"
+}, {
+    "content": "Voy a quitarme la vida",
+    "sentiment": -0.30000001192092896,
+    "magnitude": 0.30000001192092896,
+    "tag": "p_muerte"
+}, {
+    "content": "Quiero quitarme la vida",
+    "sentiment": -0.30000001192092896,
+    "magnitude": 0.30000001192092896,
+    "tag": "p_muerte"
+}, {
+    "content": "Voy a terminar con esto de una vez por todas",
+    "sentiment": -0.30000001192092896,
+    "magnitude": 0.30000001192092896,
+    "tag": "p_muerte"
+}, {
+    "content": "Mi vida no vale nada",
+    "sentiment": -0.800000011920929,
+    "magnitude": 0.800000011920929,
+    "tag": "p_muerte"
+}, {
+    "content": "Desearía estar muerto",
+    "sentiment": -0.30000001192092896,
+    "magnitude": 0.30000001192092896,
+    "tag": "p_muerte"
+}, {
+    "content": "Desearía estar muerta",
+    "sentiment": 0.10000000149011612,
+    "magnitude": 0.10000000149011612,
+    "tag": "p_muerte"
+}, {
+    "content": "Desearía no haber nacido",
+    "sentiment": -0.30000001192092896,
+    "magnitude": 0.30000001192092896,
+    "tag": "p_muerte"
+}, {
+    "content": "Me pienso hacer daño",
+    "sentiment": -0.20000000298023224,
+    "magnitude": 0.20000000298023224,
+    "tag": "p_muerte"
+}, {
+    "content": "Me despido de este mundo",
+    "sentiment": 0.30000001192092896,
+    "magnitude": 0.30000001192092896,
+    "tag": "p_muerte"
+}, {
+    "content": "Quiero irme de este mundo",
+    "sentiment": 0.30000001192092896,
+    "magnitude": 0.30000001192092896,
+    "tag": "p_muerte"
+}, {
+    "content": "Me preocupa la muerte",
+    "sentiment": 0.30000001192092896,
+    "magnitude": 0.30000001192092896,
+    "tag": "p_muerte"
+}, {
+    "content": "He perdido la esperanza",
+    "sentiment": -0.4000000059604645,
+    "magnitude": 0.4000000059604645,
+    "tag": "p_muerte"
+}, {
+    "content": "Estoy a punto de cometer un acto suicida",
+    "sentiment": 0.10000000149011612,
+    "magnitude": 0.10000000149011612,
+    "tag": "p_muerte"
+}, {
+    "content": "Solo veo obscuridad",
+    "sentiment": -0.30000001192092896,
+    "magnitude": 0.30000001192092896,
+    "tag": "p_muerte"
+}, {
+    "content": "La única solución es la muerte",
+    "sentiment": 0.6000000238418579,
+    "magnitude": 0.6000000238418579,
+    "tag": "p_muerte"
+}, {
+    "content": "La solución a mis problemas es acabar con mi vida",
+    "sentiment": 0.30000001192092896,
+    "magnitude": 0.30000001192092896,
+    "tag": "p_muerte"
+}, {
+    "content": "Ya quiero desaparecer de la tierra",
+    "sentiment": -0.10000000149011612,
+    "magnitude": 0.10000000149011612,
+    "tag": "p_muerte"
+}, {
+    "content": "No quiero vivir un día más",
+    "sentiment": 0.6000000238418579,
+    "magnitude": 0.6000000238418579,
+    "tag": "p_muerte"
+}, {
+    "content": "Solo quiero morir",
+    "sentiment": 0,
+    "magnitude": 0,
+    "tag": "p_muerte"
+}, {
+    "content": "Pienso en matarme constantemente",
+    "sentiment": 0.6000000238418579,
+    "magnitude": 0.6000000238418579,
+    "tag": "p_muerte"
+}, {
+    "content": "Tengo intenciones de matarme",
+    "sentiment": 0.30000001192092896,
+    "magnitude": 0.30000001192092896,
+    "tag": "p_muerte"
+}, {
+    "content": "Voy a matarme uno de estos días",
+    "sentiment": 0.30000001192092896,
+    "magnitude": 0.30000001192092896,
+    "tag": "p_muerte"
+}, {
+    "content": "Me voy a suicidar",
+    "sentiment": -0.6000000238418579,
+    "magnitude": 0.6000000238418579,
+    "tag": "p_muerte"
+}, {
+    "content": "no hay día en el cual no piense matarme",
+    "sentiment": -0.10000000149011612,
+    "magnitude": 0.10000000149011612,
+    "tag": "p_muerte"
+}, {
+    "content": "Solo quiero morir y descansar en paz",
+    "sentiment": 0.30000001192092896,
+    "magnitude": 0.30000001192092896,
+    "tag": "p_muerte"
+}, {
+    "content": "Siento que ya no voy a poder más",
+    "sentiment": -0.5,
+    "magnitude": 0.5,
+    "tag": "p_muerte"
+}, {
+    "content": "Dejar de existir",
+    "sentiment": -0.6000000238418579,
+    "magnitude": 0.6000000238418579,
+    "tag": "p_muerte"
+}, {
+    "content": "Desería dejar de existir",
+    "sentiment": 0,
+    "magnitude": 0,
+    "tag": "p_muerte"
+}, {
+    "content": "Deseo dejar de existir",
+    "sentiment": 0.10000000149011612,
+    "magnitude": 0.10000000149011612,
+    "tag": "p_muerte"
+}, {
+    "content": "Quisiera dejar de existir",
+    "sentiment": 0.20000000298023224,
+    "magnitude": 0.20000000298023224,
+    "tag": "p_muerte"
+}, {
+    "content": "Quiero dejar de existir",
+    "sentiment": 0,
+    "magnitude": 0,
+    "tag": "p_muerte"
+}, {
+    "content": "elegir dejar de existir",
+    "sentiment": 0.10000000149011612,
+    "magnitude": 0.10000000149011612,
+    "tag": "p_muerte"
+}, {
+    "content": "decidir dejar de existir",
+    "sentiment": 0,
+    "magnitude": 0,
+    "tag": "p_muerte"
+}, {
+    "content": "elegir el momento para dejar de existir",
+    "sentiment": 0.10000000149011612,
+    "magnitude": 0.10000000149011612,
+    "tag": "p_muerte"
+}, {
+    "content": "Le pido a dios que me lleve",
+    "sentiment": 0.4000000059604645,
+    "magnitude": 0.4000000059604645,
+    "tag": "p_muerte"
+}, {
+    "content": "Llevame dios",
+    "sentiment": 0.10000000149011612,
+    "magnitude": 0.10000000149011612,
+    "tag": "p_muerte"
+}, {
+    "content": "Necesito irme de este sufrimiento",
+    "sentiment": -0.30000001192092896,
+    "magnitude": 0.30000001192092896,
+    "tag": "p_muerte"
+}, {
+    "content": "Necesito irme de este mundo",
+    "sentiment": 0.20000000298023224,
+    "magnitude": 0.20000000298023224,
+    "tag": "p_muerte"
+}, {
+    "content": "Necesito morir",
+    "sentiment": -0.10000000149011612,
+    "magnitude": 0.10000000149011612,
+    "tag": "p_muerte"
+}, {
+    "content": "Necesito dejar de existir",
+    "sentiment": -0.10000000149011612,
+    "magnitude": 0.10000000149011612,
+    "tag": "p_muerte"
+}, {
+    "content": "Querer desaparecer",
+    "sentiment": -0.10000000149011612,
+    "magnitude": 0.10000000149011612,
+    "tag": "p_muerte"
+}, {
+    "content": "Quiero desaparecer",
+    "sentiment": 0,
+    "magnitude": 0,
+    "tag": "p_muerte"
+}, {
+    "content": "Quisiera desaparecer",
+    "sentiment": 0,
+    "magnitude": 0,
+    "tag": "p_muerte"
+}, {
+    "content": "A veces me odio hasta el punto de querer desaparecer",
+    "sentiment": -0.699999988079071,
+    "magnitude": 0.699999988079071,
+    "tag": "p_muerte"
+}, {
+    "content": "Mi vida terminará",
+    "sentiment": 0.5,
+    "magnitude": 0.5,
+    "tag": "p_muerte"
+}, {
+    "content": "Mi vida terminará pronto",
+    "sentiment": 0.5,
+    "magnitude": 0.5,
+    "tag": "p_muerte"
+}, {
+    "content": "Quiero que mi vida termine pronto",
+    "sentiment": 0.6000000238418579,
+    "magnitude": 0.6000000238418579,
+    "tag": "p_muerte"
+}, {
+    "content": "Quisiera que mi vida termine pronto",
+    "sentiment": 0.6000000238418579,
+    "magnitude": 0.6000000238418579,
+    "tag": "p_muerte"
+}, {
+    "content": "Siento que mi vida terminará pronto",
+    "sentiment": 0.5,
+    "magnitude": 0.5,
+    "tag": "p_muerte"
+}, {
+    "content": "Vivir es de lo mejor que hay",
+    "sentiment": 0.8999999761581421,
+    "magnitude": 0.8999999761581421,
+    "tag": "p_vida"
+}, {
+    "content": "Quiero habla con alguien",
+    "sentiment": -0.10000000149011612,
+    "magnitude": 0.10000000149011612,
+    "tag": "p_vida"
+}, {
+    "content": "Estoy en una dificil situación",
+    "sentiment": 0,
+    "magnitude": 0,
+    "tag": "p_vida"
+}, {
+    "content": "Me haré muestras de sangre y otro tipo de exámenes",
+    "sentiment": 0.5,
+    "magnitude": 0.5,
+    "tag": "p_vida"
+}, {
+    "content": "Francamente no me hallo mucho en el entorno y el ambiente.",
+    "sentiment": -0.5,
+    "magnitude": 0.5,
+    "tag": "p_vida"
+}, {
+    "content": "Ayer tenía ganas de jugar",
+    "sentiment": -0.10000000149011612,
+    "magnitude": 0.10000000149011612,
+    "tag": "p_vida"
+}, {
+    "content": "La vida es lo más importante que tenemos",
+    "sentiment": 0.4000000059604645,
+    "magnitude": 0.4000000059604645,
+    "tag": "p_vida"
+}, {
+    "content": "Quiero llegar a ser viejito",
+    "sentiment": 0.10000000149011612,
+    "magnitude": 0.10000000149011612,
+    "tag": "p_vida"
+}, {
+    "content": "Morirse nunca es la solución",
+    "sentiment": -0.4000000059604645,
+    "magnitude": 0.4000000059604645,
+    "tag": "p_vida"
+}, {
+    "content": "Decidí acabar con mis estudios",
+    "sentiment": 0.30000001192092896,
+    "magnitude": 0.30000001192092896,
+    "tag": "p_vida"
+}, {
+    "content": "Voy a terminar mi tarea en estos días",
+    "sentiment": 0,
+    "magnitude": 0,
+    "tag": "p_vida"
+}, {
+    "content": "Siempre le he tenido miedo a la obscuridad",
+    "sentiment": 0.6000000238418579,
+    "magnitude": 0.6000000238418579,
+    "tag": "p_vida"
+}, {
+    "content": "Quiero irme de mi casa",
+    "sentiment": 0.10000000149011612,
+    "magnitude": 0.10000000149011612,
+    "tag": "p_vida"
+}, {
+    "content": "Ayer perdí mi carter",
+    "sentiment": -0.699999988079071,
+    "magnitude": 0.699999988079071,
+    "tag": "spero recuperarla"
+}, {
+    "content": "No importan los problema",
+    "sentiment": 0.699999988079071,
+    "magnitude": 0.699999988079071,
+    "tag": "a vida es bella"
+}, {
+    "content": "No quiero ir a la escuela",
+    "sentiment": -0.5,
+    "magnitude": 0.5,
+    "tag": "p_vida"
+}, {
+    "content": "Ayer me despedí rápido de mi amigo",
+    "sentiment": 0.6000000238418579,
+    "magnitude": 0.6000000238418579,
+    "tag": "p_vida"
+}, {
+    "content": "Aunque la vida sea difici",
+    "sentiment": 0.699999988079071,
+    "magnitude": 0.699999988079071,
+    "tag": "ay que seguir luchando"
+}, {
+    "content": "Hay que ir siempre para adelante",
+    "sentiment": 0.10000000149011612,
+    "magnitude": 0.10000000149011612,
+    "tag": "p_vida"
+}, {
+    "content": "No me gustan los vegetales",
+    "sentiment": -0.5,
+    "magnitude": 0.5,
+    "tag": "p_vida"
+}, {
+    "content": "No me agrada nada ese tipo",
+    "sentiment": -0.8999999761581421,
+    "magnitude": 0.8999999761581421,
+    "tag": "p_vida"
+}, {
+    "content": "La violencia la sufrimos todos",
+    "sentiment": -0.20000000298023224,
+    "magnitude": 0.20000000298023224,
+    "tag": "p_vida"
+}, {
+    "content": "el estar en linea no me hace sentir tan solo",
+    "sentiment": 0,
+    "magnitude": 0,
+    "tag": "p_vida"
+}, {
+    "content": "No me considero perfeccionista",
+    "sentiment": -0.5,
+    "magnitude": 0.5,
+    "tag": "p_vida"
+}, {
+    "content": "pero todo me afecta",
+    "sentiment": -0.30000001192092896,
+    "magnitude": 0.30000001192092896,
+    "tag": "p_vida"
+}, {
+    "content": "empece a sentir esto desde el año pasado",
+    "sentiment": 0.6000000238418579,
+    "magnitude": 0.6000000238418579,
+    "tag": "p_vida"
+}, {
+    "content": "cambiar de personalidad",
+    "sentiment": 0.20000000298023224,
+    "magnitude": 0.20000000298023224,
+    "tag": "p_vida"
+}, {
+    "content": "ODIO hacer squats",
+    "sentiment": -0.699999988079071,
+    "magnitude": 0.699999988079071,
+    "tag": "p_vida"
+}, {
+    "content": "les dejo este video para al menos terminarlo con buen sabor de boca",
+    "sentiment": 0,
+    "magnitude": 0,
+    "tag": "p_vida"
+}, {
+    "content": "pensar",
+    "sentiment": 0.699999988079071,
+    "magnitude": 0.699999988079071,
+    "tag": "p_vida"
+}, {
+    "content": "Hoy fui a hacerme",
+    "sentiment": 0,
+    "magnitude": 0,
+    "tag": "p_vida"
+}, {
+    "content": "una vez más",
+    "sentiment": 0,
+    "magnitude": 0,
+    "tag": "p_vida"
+}, {
+    "content": "un test de VIH",
+    "sentiment": 0.10000000149011612,
+    "magnitude": 0.10000000149011612,
+    "tag": "p_vida"
+}, {
+    "content": "paz",
+    "sentiment": 0.10000000149011612,
+    "magnitude": 0.10000000149011612,
+    "tag": "p_vida"
+}, {
+    "content": "Debemos pagar el precio de intentar conseguir la vida que queremos",
+    "sentiment": -0.20000000298023224,
+    "magnitude": 0.20000000298023224,
+    "tag": "p_vida"
+}, {
+    "content": "estaban igual de solos ayer",
+    "sentiment": -0.4000000059604645,
+    "magnitude": 0.4000000059604645,
+    "tag": "p_vida"
+}, {
+    "content": "estarán igual de solos mañana",
+    "sentiment": -0.20000000298023224,
+    "magnitude": 0.20000000298023224,
+    "tag": "p_vida"
+}, {
+    "content": "Es el dolor más grande y más profundo",
+    "sentiment": -0.30000001192092896,
+    "magnitude": 0.30000001192092896,
+    "tag": "p_vida"
+}, {
+    "content": "se piden por Internet",
+    "sentiment": -0.30000001192092896,
+    "magnitude": 0.30000001192092896,
+    "tag": "p_vida"
+}, {
+    "content": "solo de su carisma ",
+    "sentiment": -0.10000000149011612,
+    "magnitude": 0.10000000149011612,
+    "tag": "p_vida"
+}, {
+    "content": "en el 50 aniversario de nuestra Alma Mater para disfrutar de todo su contenido",
+    "sentiment": 0.800000011920929,
+    "magnitude": 0.800000011920929,
+    "tag": "p_vida"
+}, {
+    "content": "como: “Este tiempo es más largo que aquel otro”",
+    "sentiment": 0.30000001192092896,
+    "magnitude": 0.30000001192092896,
+    "tag": "p_vida"
+}, {
+    "content": "Mido el tiempo",
+    "sentiment": 0.10000000149011612,
+    "magnitude": 0.10000000149011612,
+    "tag": "p_vida"
+}, {
+    "content": "mido el futuro",
+    "sentiment": 0.800000011920929,
+    "magnitude": 0.800000011920929,
+    "tag": "p_vida"
+}, {
+    "content": "mido el presente",
+    "sentiment": 0.10000000149011612,
+    "magnitude": 0.10000000149011612,
+    "tag": "p_vida"
+}, {
+    "content": "mido el pretérito",
+    "sentiment": 0.10000000149011612,
+    "magnitude": 0.10000000149011612,
+    "tag": "p_vida"
+}, {
+    "content": "a ustedes una mía buscándome",
+    "sentiment": 0.10000000149011612,
+    "magnitude": 0.10000000149011612,
+    "tag": "p_vida"
+}, {
+    "content": "Si se ven bien pendejos/pendejas defendiendo algo sólo por llevar la contraria",
+    "sentiment": -0.4000000059604645,
+    "magnitude": 0.4000000059604645,
+    "tag": "p_vida"
+}, {
+    "content": "solo quería pedirles algunos consejos",
+    "sentiment": -0.20000000298023224,
+    "magnitude": 0.20000000298023224,
+    "tag": "p_vida"
+}, {
+    "content": "este dolor de cabeza me anuncia un próximo pesar",
+    "sentiment": -0.4000000059604645,
+    "magnitude": 0.4000000059604645,
+    "tag": "p_vida"
+}, {
+    "content": "mi madre por problemas de lumbociatica",
+    "sentiment": 0,
+    "magnitude": 0,
+    "tag": "p_vida"
+}, {
+    "content": "vivo sola",
+    "sentiment": 0.10000000149011612,
+    "magnitude": 0.10000000149011612,
+    "tag": "p_vida"
+}, {
+    "content": "estoy en un punto donde tomo",
+    "sentiment": 0.10000000149011612,
+    "magnitude": 0.10000000149011612,
+    "tag": "p_vida"
+}, {
+    "content": "poco a poco estoy saliendo de esto",
+    "sentiment": -0.20000000298023224,
+    "magnitude": 0.20000000298023224,
+    "tag": "p_vida"
+}, {
+    "content": "Un suave dolor de cabeza me quiere acompañar durante el resto del día pero ya estoy acostumbrado a eso",
+    "sentiment": 0.4000000059604645,
+    "magnitude": 0.4000000059604645,
+    "tag": "p_vida"
+}, {
+    "content": "ver el mundo diferente",
+    "sentiment": 0.5,
+    "magnitude": 0.5,
+    "tag": "p_vida"
+}, {
+    "content": "fortaleza amén explica lo que Dios ha hecho en ti hoy amén dale gracias por un día más de vida amén",
+    "sentiment": 0.800000011920929,
+    "magnitude": 0.800000011920929,
+    "tag": "p_vida"
+}, {
+    "content": "Tuve un entrenamiento de vida",
+    "sentiment": 0.5,
+    "magnitude": 0.5,
+    "tag": "p_vida"
+}, {
+    "content": "La vida lo es todo",
+    "sentiment": 0.4000000059604645,
+    "magnitude": 0.4000000059604645,
+    "tag": "p_vida"
+}, {
+    "content": "Este ultimo año he tenido muchisima hambre",
+    "sentiment": -0.20000000298023224,
+    "magnitude": 0.20000000298023224,
+    "tag": "p_vida"
+}, {
+    "content": "Me pregunto si existe una Enkarni de verdad",
+    "sentiment": -0.6000000238418579,
+    "magnitude": 0.6000000238418579,
+    "tag": "p_vida"
+}, {
+    "content": "Me siento fatal he estado muy mal estos dias ayer discuti con mis hijos creo que ya se aburrieron de mi",
+    "sentiment": -0.800000011920929,
+    "magnitude": 0.800000011920929,
+    "tag": "p_vida"
+}, {
+    "content": "Ya me quede sin dinero",
+    "sentiment": 0.10000000149011612,
+    "magnitude": 0.10000000149011612,
+    "tag": "p_vida"
+}, {
+    "content": "quiero contar que aparentemente no tengo problemas de tipo economico",
+    "sentiment": 0.800000011920929,
+    "magnitude": 0.800000011920929,
+    "tag": "p_vida"
+}, {
+    "content": "He encontrado este foro",
+    "sentiment": 0.800000011920929,
+    "magnitude": 0.800000011920929,
+    "tag": "p_vida"
+}, {
+    "content": "a mi me hizo mucho daño su comportamiento quería estar con ella pero ella no quería nada de nadie",
+    "sentiment": -0.800000011920929,
+    "magnitude": 0.800000011920929,
+    "tag": "p_vida"
+}, {
+    "content": "no quiero hacerles daño",
+    "sentiment": -0.5,
+    "magnitude": 0.5,
+    "tag": "p_vida"
+}, {
+    "content": "este trabajo me ha creado tanta ansiedad",
+    "sentiment": 0.6000000238418579,
+    "magnitude": 0.6000000238418579,
+    "tag": "p_vida"
+}, {
+    "content": "No poder dormir me está matando",
+    "sentiment": -0.10000000149011612,
+    "magnitude": 0.10000000149011612,
+    "tag": "p_vida"
+}, {
+    "content": "He perdido la ilusión",
+    "sentiment": -0.699999988079071,
+    "magnitude": 0.699999988079071,
+    "tag": "p_vida"
+}, {
+    "content": "nada me motiva",
+    "sentiment": -0.20000000298023224,
+    "magnitude": 0.20000000298023224,
+    "tag": "p_vida"
+}, {
+    "content": "también existen personas que solo son pasajeros en tu vida",
+    "sentiment": 0,
+    "magnitude": 0,
+    "tag": "p_vida"
+}, {
+    "content": "Un excelente curso si pueden llevar también Cálculo IV con él",
+    "sentiment": 0.8999999761581421,
+    "magnitude": 0.8999999761581421,
+    "tag": "p_vida"
+}, {
+    "content": "comienzas a disfrutar la vida",
+    "sentiment": 0.5,
+    "magnitude": 0.5,
+    "tag": "p_vida"
+}, {
+    "content": "de día",
+    "sentiment": 0.10000000149011612,
+    "magnitude": 0.10000000149011612,
+    "tag": "p_vida"
+}, {
+    "content": "No siento deseos ni siquiera de levantarme",
+    "sentiment": -0.8999999761581421,
+    "magnitude": 0.8999999761581421,
+    "tag": "p_vida"
+}, {
+    "content": "eso no me deja concentrarme",
+    "sentiment": -0.6000000238418579,
+    "magnitude": 0.6000000238418579,
+    "tag": "p_vida"
+}, {
+    "content": "Por Dio",
+    "sentiment": 0.6000000238418579,
+    "magnitude": 0.6000000238418579,
+    "tag": "e costó un mundo levantarme hoy"
+}, {
+    "content": "Dios no existe",
+    "sentiment": -0.20000000298023224,
+    "magnitude": 0.20000000298023224,
+    "tag": "p_vida"
+}, {
+    "content": "Dios es bueno",
+    "sentiment": 0.699999988079071,
+    "magnitude": 0.699999988079071,
+    "tag": "p_vida"
+}, {
+    "content": "más cuando tienes estos trastornos porque Dios de habrá enseñado conmigo no entiendo que hice mal para merecerme esto a la final el tiene sus designios a sido tanto mi pensamiento de dormir",
+    "sentiment": 0.6000000238418579,
+    "magnitude": 0.6000000238418579,
+    "tag": "p_vida"
+}, {
+    "content": "las cosas que antes me provocaban placer ahora son una más",
+    "sentiment": 0.10000000149011612,
+    "magnitude": 0.10000000149011612,
+    "tag": "p_vida"
+}, {
+    "content": "Cada día caigo más profundo en el pozo",
+    "sentiment": -0.30000001192092896,
+    "magnitude": 0.30000001192092896,
+    "tag": "p_vida"
+}, {
+    "content": "recibi atencion psicologica mas sin embargo no siento alguna mejoria",
+    "sentiment": -0.6000000238418579,
+    "magnitude": 0.6000000238418579,
+    "tag": "p_vida"
+}, {
+    "content": "cada día engordo más",
+    "sentiment": 0.20000000298023224,
+    "magnitude": 0.20000000298023224,
+    "tag": "p_vida"
+}, {
+    "content": "factores de mi depresión pueden haber muchos pero que mas da mencionarlos",
+    "sentiment": 0.10000000149011612,
+    "magnitude": 0.10000000149011612,
+    "tag": "p_vida"
+}, {
+    "content": "te das cuenta que dejaste un desastre en tu vida autocompadeciendote",
+    "sentiment": -0.800000011920929,
+    "magnitude": 0.800000011920929,
+    "tag": "p_vida"
+}, {
+    "content": "como si la vida misma fuera otra monotonía más por hacer",
+    "sentiment": 0.30000001192092896,
+    "magnitude": 0.30000001192092896,
+    "tag": "p_vida"
+}, {
+    "content": "a veces es mejor solo dejarse llevar",
+    "sentiment": 0,
+    "magnitude": 0,
+    "tag": "p_vida"
+}, {
+    "content": "Quiero estar bien",
+    "sentiment": 0.20000000298023224,
+    "magnitude": 0.20000000298023224,
+    "tag": "p_vida"
+}, {
+    "content": "siento que la angustia no me está dejando respirar",
+    "sentiment": -0.6000000238418579,
+    "magnitude": 0.6000000238418579,
+    "tag": "p_vida"
+}, {
+    "content": "Deja de llorar",
+    "sentiment": 0,
+    "magnitude": 0,
+    "tag": "p_vida"
+}, {
+    "content": "El culpable de todo esto soy yo",
+    "sentiment": 0.30000001192092896,
+    "magnitude": 0.30000001192092896,
+    "tag": "p_vida"
+}, {
+    "content": "Tome un poco de mas por la depre",
+    "sentiment": 0.30000001192092896,
+    "magnitude": 0.30000001192092896,
+    "tag": "p_vida"
+}, {
+    "content": "A veces pienso en que debería ir mejor con un psiquiatra",
+    "sentiment": 0.10000000149011612,
+    "magnitude": 0.10000000149011612,
+    "tag": "p_vida"
+}, {
+    "content": "En este momento me siento perdida",
+    "sentiment": -0.800000011920929,
+    "magnitude": 0.800000011920929,
+    "tag": "p_vida"
+}, {
+    "content": "Debo de admitir que mi vida no he vivido alguna dificultad",
+    "sentiment": 0.30000001192092896,
+    "magnitude": 0.30000001192092896,
+    "tag": "p_vida"
+}, {
+    "content": "no me dejan vivir en paz",
+    "sentiment": 0,
+    "magnitude": 0,
+    "tag": "p_vida"
+}, {
+    "content": "más triste",
+    "sentiment": -0.30000001192092896,
+    "magnitude": 0.30000001192092896,
+    "tag": "p_vida"
+}, {
+    "content": "Actualmente me encuentro en uno de los peores períodos de mi vida",
+    "sentiment": -0.699999988079071,
+    "magnitude": 0.699999988079071,
+    "tag": "p_vida"
+}, {
+    "content": "Supongo que el adulto cínico no ha logrado matar del todo al niño dentro de mi porque esto me hizo muy feliz",
+    "sentiment": 0.4000000059604645,
+    "magnitude": 0.4000000059604645,
+    "tag": "p_vida"
+}, {
+    "content": "Trabaja",
+    "sentiment": 0.800000011920929,
+    "magnitude": 0.800000011920929,
+    "tag": "ome"
+}, {
+    "content": "No quiero saber nada de nadie",
+    "sentiment": -0.800000011920929,
+    "magnitude": 0.800000011920929,
+    "tag": "p_vida"
+}, {
+    "content": "espero poder usarlo",
+    "sentiment": 0.4000000059604645,
+    "magnitude": 0.4000000059604645,
+    "tag": "p_vida"
+}, {
+    "content": "Y hoy voy para abajo",
+    "sentiment": 0.10000000149011612,
+    "magnitude": 0.10000000149011612,
+    "tag": "p_vida"
+}, {
+    "content": "ya no tengo pilas para nada",
+    "sentiment": -0.699999988079071,
+    "magnitude": 0.699999988079071,
+    "tag": "p_vida"
+}, {
+    "content": "ya no me dejo ayudar porque a nadie le importo un carajo",
+    "sentiment": -0.4000000059604645,
+    "magnitude": 0.4000000059604645,
+    "tag": "p_vida"
+}, {
+    "content": "que tampoco vale la pena seguir me esta matando",
+    "sentiment": -0.800000011920929,
+    "magnitude": 0.800000011920929,
+    "tag": "p_vida"
+}, {
+    "content": "ahora que pienso",
+    "sentiment": 0.10000000149011612,
+    "magnitude": 0.10000000149011612,
+    "tag": "p_vida"
+}, {
+    "content": "No espero nada de la vida ",
+    "sentiment": -0.5,
+    "magnitude": 0.5,
+    "tag": "p_vida"
+}, {
+    "content": "Me he sentido mal ultimamente",
+    "sentiment": -0.20000000298023224,
+    "magnitude": 0.20000000298023224,
+    "tag": "p_vida"
+}]
