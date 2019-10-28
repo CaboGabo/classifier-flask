@@ -1,7 +1,11 @@
 from flask import Flask, jsonify, request
+from flask_cors import CORS, cross_origin
 from classifiers import *
 
 app = Flask(__name__)
+
+cors = CORS(app)
+app.config['CORS_HEADERS'] = 'Content-Type'
 
 @app.route('/diagnosticate', methods=['POST'])
 def diagnosticate():
