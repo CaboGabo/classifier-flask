@@ -32,6 +32,18 @@ textb4 = b4.read()
 textb6 = b6.read()
 textc1 = c1.read()
 
+a2.close()
+a3.close()
+a4.close()
+a6.close()
+a7.close()
+a8.close()
+a9.close()
+b1.close()
+b4.close()
+b6.close()
+c1.close()
+
 objsa2 = json.loads(texta2)
 objsa3 = json.loads(texta3)
 objsa4 = json.loads(texta4)
@@ -43,7 +55,6 @@ objsb1 = json.loads(textb1)
 objsb4 = json.loads(textb4)
 objsb6 = json.loads(textb6)
 objsc1 = json.loads(textc1)
-
 
 # Función que quita las palabras que no son relevantes dentro de las frases
 def removeWords(tokenized_word):
@@ -117,3 +128,8 @@ def getClassifier(objArray):
     classifier = nltk.NaiveBayesClassifier.train(train_set)
     # print(nltk.classify.accuracy(classifier, test_set))
     return [classifier, word_features]
+
+classifiers = [getClassifier(objsa2), getClassifier(objsa3), getClassifier(objsa4), getClassifier(objsa6), getClassifier(objsa7), getClassifier(
+    objsa8), getClassifier(objsa9), getClassifier(objsb1), getClassifier(objsb4), getClassifier(objsb6), getClassifier(objsc1)]
+
+print('Clasificadores entrenados')

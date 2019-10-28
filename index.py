@@ -9,8 +9,6 @@ app.config['CORS_HEADERS'] = 'Content-Type'
 
 @app.route('/diagnosticate', methods=['POST'])
 def diagnosticate():
-    classifiers = [getClassifier(objsa2), getClassifier(objsa3), getClassifier(objsa4), getClassifier(objsa6), getClassifier(objsa7), getClassifier(
-    objsa8), getClassifier(objsa9), getClassifier(objsb1), getClassifier(objsb4), getClassifier(objsb6), getClassifier(objsc1)]
     data = request.get_json()
     posts = data['posts']
 
