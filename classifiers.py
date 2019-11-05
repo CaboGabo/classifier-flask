@@ -8,17 +8,17 @@ import math
 import nltk
 
 # Código que carga los json, y los lee
-a2 = open('datasets/datasetA2.json', 'r', encoding='utf8')
-a3 = open('datasets/datasetA3.json', 'r', encoding='utf8')
-a4 = open('datasets/datasetA4.json', 'r', encoding='utf8')
-a6 = open('datasets/datasetA6.json', 'r', encoding='utf8')
-a7 = open('datasets/datasetA7.json', 'r', encoding='utf8')
-a8 = open('datasets/datasetA8.json', 'r', encoding='utf8')
-a9 = open('datasets/datasetA9.json', 'r', encoding='utf8')
-b1 = open('datasets/datasetB1.json', 'r', encoding='utf8')
-b4 = open('datasets/datasetB4.json', 'r', encoding='utf8')
-b6 = open('datasets/datasetB6.json', 'r', encoding='utf8')
-c1 = open('datasets/datasetC1.json', 'r', encoding='utf8')
+a2 = open('finalDatasets/datasetA2.json', 'r', encoding='utf8')
+a3 = open('finalDatasets/datasetA3.json', 'r', encoding='utf8')
+a4 = open('finalDatasets/datasetA4.json', 'r', encoding='utf8')
+a6 = open('finalDatasets/datasetA6.json', 'r', encoding='utf8')
+a7 = open('finalDatasets/datasetA7.json', 'r', encoding='utf8')
+a8 = open('finalDatasets/datasetA8.json', 'r', encoding='utf8')
+a9 = open('finalDatasets/datasetA9.json', 'r', encoding='utf8')
+b1 = open('finalDatasets/datasetB1.json', 'r', encoding='utf8')
+b4 = open('finalDatasets/datasetB4.json', 'r', encoding='utf8')
+b6 = open('finalDatasets/datasetB6.json', 'r', encoding='utf8')
+c1 = open('finalDatasets/datasetC1.json', 'r', encoding='utf8')
 
 texta2 = a2.read()
 texta3 = a3.read()
