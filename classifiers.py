@@ -62,7 +62,9 @@ def removeWords(tokenized_word):
     filtered_sent = []
     for w in tokenized_word:
         if w not in stop_words:
-            filtered_sent.append(w)
+            if(w not in [',','.', ':', '?', '(', ')', '...', "''", '""', '``', '!']):
+                #print(w)
+                filtered_sent.append(w)
     return filtered_sent
 
 
@@ -88,12 +90,16 @@ def getAllWords(arrayObjTokenized):
 
 def documentFeatures(obj, word_features):
     features = {}
-    [objStemmed] = stemming([obj])
-    document_words = set(objStemmed['content'])
+    #[objStemmed] = stemming([obj])
+    document_words = set(obj['content'])
+
     for word in word_features:
         features['contains(%s)' % word] = (word in document_words)
-    features['sentimen'] = obj['sentiment']
-    features['magnitude'] = obj['magnitude']
+    if(obj['sentiment']<-0.1):
+        features['sentiment'] = 'Negativo'
+    else:
+        features['sentiment'] = 'Positivo'
+    #features['magnitude'] = round(obj['magnitude'],2)
     return features
 
 # Función que entrena el clasificador
@@ -113,8 +119,8 @@ def stemming(objArray):
 
 def getClassifier(objArray):
     random.shuffle(objArray)
-    objArray = stemming(getTokenizedText(objArray))
-    all_words = FreqDist(getAllWords(objArray))
+    #objArray = stemming(getTokenizedText(objArray))
+    all_words = FreqDist(getAllWords(getTokenizedText(objArray)))
 
     word_features = list(all_words.keys())[:200]
 
@@ -125,11 +131,12 @@ def getClassifier(objArray):
 
     train_set_len = math.floor(len(featuresets)*0.1)
     train_set, test_set = featuresets[train_set_len:], featuresets[:train_set_len]
+    #classifier = nltk.DecisionTreeClassifier.train(train_set)
     classifier = nltk.NaiveBayesClassifier.train(train_set)
-    # print(nltk.classify.accuracy(classifier, test_set))
+    print(nltk.classify.accuracy(classifier, test_set))
+    #classifier.show_most_informative_features(20)
     return [classifier, word_features]
 
 classifiers = [getClassifier(objsa2), getClassifier(objsa3), getClassifier(objsa4), getClassifier(objsa6), getClassifier(objsa7), getClassifier(
     objsa8), getClassifier(objsa9), getClassifier(objsb1), getClassifier(objsb4), getClassifier(objsb6), getClassifier(objsc1)]
-
 print('Clasificadores entrenados')
