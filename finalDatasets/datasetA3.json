@@ -1420,7 +1420,7 @@
     "content": "Hola, mi nombre es Alejandría y no me siento bien conmigo, lloro por nada, estoy dejando de sentir emoción por cosas, odio querer a la gente y ya no quiero estar viva, estoy cansada de ser yo y de sentirme vacía y lo peor es que me siento cobarde a no hacer que esto acabe.",
     "sentiment": -0.8999999761581421,
     "magnitude": 0.8999999761581421,
-    "tag": "modPeso/sinModPeso"
+    "tag": "sinModPeso"
   },
   {
     "content": "Siempre e sido de las que consiguen amistades fácilmente pero desde que e te al instituto he ido perdiendo todas las amigas que tenia y no se porque, porque soy una chica super simpática y empatizo muchisimo con los demás, siempre intento ayudar y que estén bien. Me han fallado todos y no lo entiendo, me odian y son ellos los que me han hecho cosas a mi.Me siento muy sola porque no se que tengo que hacer ya, no tengo ni 1 amiga, nadie que me hable aunque sea por WhatsApp, nada. No se que hacer ya, me siento lo peor del mundo viendo a toda la gente junta y ver como me apartan, ayuda",
@@ -1714,7 +1714,7 @@
     "content": " tengo 12. años tomando clonazepam hace seis años empeze a sentir pánicos. Sociales no querer salir miedo a salir sola solo quiero. Estar en casa quiero. Salir adelante de esto como lo puedo superar perdí la confianza en mi misma,",
     "sentiment": 0.20000000298023224,
     "magnitude": 1.5,
-    "tag": "modPeso/sinModPeso"
+    "tag": "sinModPeso"
   },
   {
     "content": "La verdad yo jamás me voy aceptar es algo que jamás lograré, porque mis dientes son feos, porque no tengo un buen cuerpo ya que para mí el físico vale más q los sentimientos y no se socializar con las demás personas..",
