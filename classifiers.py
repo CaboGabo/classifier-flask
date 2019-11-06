@@ -90,8 +90,10 @@ def getAllWords(arrayObjTokenized):
 
 def documentFeatures(obj, word_features):
     features = {}
-    #[objStemmed] = stemming([obj])
-    document_words = set(obj['content'])
+    #document_words = set(obj['content'])
+
+    [objStemmed] = stemming([obj])
+    document_words = set(objStemmed['content'])
 
     for word in word_features:
         features['contains(%s)' % word] = (word in document_words)
@@ -119,8 +121,10 @@ def stemming(objArray):
 
 def getClassifier(objArray):
     random.shuffle(objArray)
-    #objArray = stemming(getTokenizedText(objArray))
-    all_words = FreqDist(getAllWords(getTokenizedText(objArray)))
+    #all_words = FreqDist(getAllWords(getTokenizedText(objArray)))
+
+    objArray = stemming(getTokenizedText(objArray))
+    all_words = FreqDist(getAllWords(objArray))
 
     word_features = list(all_words.keys())[:200]
 

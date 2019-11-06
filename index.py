@@ -19,8 +19,8 @@ def diagnosticate():
     for post in posts:
         post['content'] = removeWords(post['content'])
         total_words += post['content']
-        """[stemmed]  = stemming([post])
-        post = stemmed"""
+        [stemmed]  = stemming([post])
+        post = stemmed
         postTags = []
         for classifier in classifiers:
             post_document = documentFeatures(post, classifier[1])
