@@ -137,7 +137,7 @@ def getClassifier(objArray):
     train_set, test_set = featuresets[train_set_len:], featuresets[:train_set_len]
     #classifier = nltk.DecisionTreeClassifier.train(train_set)
     classifier = nltk.NaiveBayesClassifier.train(train_set)
-    print(nltk.classify.accuracy(classifier, test_set))
+    print('Accuracy:',nltk.classify.accuracy(classifier, test_set))
     #classifier.show_most_informative_features(20)
     return [classifier, word_features]
 

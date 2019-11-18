@@ -1,6 +1,7 @@
 from flask import Flask, jsonify, request
 from flask_cors import CORS, cross_origin
 from classifiers import *
+import time
 
 app = Flask(__name__)
 
@@ -16,6 +17,7 @@ def diagnosticate():
     total_words = []
 
     results = []
+    start_time = time.time()
     for post in posts:
         post['content'] = removeWords(post['content'])
         total_words += post['content']
@@ -37,5 +39,5 @@ def diagnosticate():
     words_used = list(all_words.keys())[:10]
     response['classifiedPosts'] = results
     response['topWords'] = words_used
-
+    print('Tiempo de ejecucion', (time.time()- start_time))
     return jsonify(response)
